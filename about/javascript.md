@@ -1,7 +1,7 @@
 ### **Getting Some Java!** :coffee:
 ##### *What is Java Script?*
   A dynamic scripting language that supports object-oriented, imperative, and functional programming styles. Sometimes referred to as *JS* (for the purpose of this resource we will use *JS* instead of Javascript). [Source](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  
+
   Now that we have an idea of what *JS* is, lets learn some BASIC commands and what they do!
 ###### *Basic*
 1. [Argument](https://developer.mozilla.org/en-US/docs/Glossary/Argument)
@@ -16,7 +16,7 @@
     * Returns the length of a String object.
 6. [console.log]
     * Outputs a message to the Web Console. (Non standard and should not be used in production) But for the purpose of making some examples easier to follow we will use it
-      * EX: `if("We Rock".length * 10 >  5) { 
+      * EX: `if("We Rock".length * 10 >  5) {
 ... console.log("YES!")
 ... }
 // YES!` In english this is what happened; We said : IF the length of We Rock multiplied by 10 is greater than 5 our console will show yes. Since `"We Rock"` is 7 and 7 * 10 is 70, 70 is > 5 it followed it's function and returned the proper response.
@@ -41,8 +41,8 @@
     * The global Infinity property is a numeric value representing infinity.
 
 ###### [*Basic Arithmetic*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
-1. `+` The addition operator produces the sum of numeric operands or string concatenation. 
-    * Numerical EX: `1 + 1 // 2` 
+1. `+` The addition operator produces the sum of numeric operands or string concatenation.
+    * Numerical EX: `1 + 1 // 2`
     * String EX: `'I Will Learn to' + ' love Javascript' // 'I Will Learn to love Javascript'`
 2. `-` The addition operator produces the sum of numeric operands or string concatenation. It is Uniary and will only work on numericals.
     * Numerical EX 1: `30 - 27 // 3`  EX 2: `27 - 30 // -3`
