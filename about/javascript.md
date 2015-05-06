@@ -12,6 +12,14 @@
     * A function is a code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return an output. A function in JavaScript is also an object. An example of a function are **`()`** & **`{}`**.
 4. [`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)The typeof operator returns a string indicating the type of the unevaluated operand. (it is **_1_** word!!!)
     * EX: `typeof 1 // 'number';` or `typeof "one" // 'string';`
+5. length Property (string)
+    * Returns the length of a String object.
+6. [console.log]
+    * Outputs a message to the Web Console. (Non standard and should not be used in production) But for the purpose of making some examples easier to follow we will use it
+      * EX: `if("We Rock".length * 10 >  5) { 
+... console.log("YES!")
+... }
+// YES!` In english this is what happened; We said : IF the length of We Rock multiplied by 10 is greater than 5 our console will show yes. Since `"We Rock"` is 7 and 7 * 10 is 70, 70 is > 5 it followed it's function and returned the proper response.
 
 ###### *Basic Literal Types*
 1. [*null*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null)
