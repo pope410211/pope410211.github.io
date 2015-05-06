@@ -15,7 +15,5 @@
     3. Not too late
         1. Are we raising our childeren to get "A's", win at sports? We can begin - instead - saying you did well, you really tried and hey great game, did you have fun? Ask questions engage their minds.
         2. Quit rewarding everything, and compliment effort. Even as leaders and managers we could challenge our crew and engage them for better quality work, improved moral ( Free tip for you current or future business leader - that means more profit and improved margin!).
-3. #####Closing
-    1.Even as adults we can learn. Take a chance. Make a career change. Challenge ourselves, try our best, and practice we can get there!
-
-[My Growth and Fixed Minset Essay](https://github.com/pope410211/pope410211.github.io/new/01---right-mindset)
+3. **Closing**
+    1. Even as adults we can learn. Take a chance. Make a career change. Challenge ourselves, try our best, and practice we can get there!
