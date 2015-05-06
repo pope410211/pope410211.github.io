@@ -31,3 +31,4 @@ Let's apply it to now. Even as adults we are constantly living in a box. But we 
 Even as a adults we can learn. and to quote Dr. James A. Moore "There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!"
 
 ### FINAL 
+tyring
