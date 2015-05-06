@@ -17,3 +17,17 @@
         2. Quit rewarding everything, and compliment effort. Even as leaders and managers we could challenge our crew and engage them for better quality work, improved moral ( Free tip for you current or future business leader - that means more profit and improved margin!).
 3. **Closing**
     1. Even as adults we can learn. Take a chance. Make a career change. Challenge ourselves, try our best, and practice we can get there!
+
+
+
+#Rough draft 1:
+
+"Not Yet" that was the grade given to students who did not get an "A" on the project. "Not Yet"? What does that imply, how does that help students? Is that even quantifiable? Yet that phrase has helped students improve their grades, their confidence, and their ability to grow into contributing members to society. Mabe we adults could even change mindsets to improve ours -and others- lives.
+
+Before we can go further, we must answer the question - What is growth mindset vs fixed mindset? Simply put a growth mindset encourages individuals to grow, accept challenges and learn from mistakes. While fixed mindset places an individual in a box - and they can only grow inside that box. What encourages these mindsets is our langauge. Saying how brilliant this individual is for achieving all A's or reaching whatever goal, creates bar that individual does not want to drop below, so they avoid the hard stuff so they gaurantee an "A". Whereas telling some wow, you really worked hard and it shows encourages to keep trying, because that is what their peer(s) notice.
+
+Now that we know the difference how does it help? When given an error those with a growth mindset engaged it more deeply, tried to figure out the answer, and learn from their failure. Fixed mindsets would just shut down. Scientists did brain scans on both groups to see if they reacted differently. The scans showed tons of activity in the growth and very little in fixed. Furthermore they are able to see new neuron connections being built and becoming stronger in growth mindsets - IQ's are no longer a statement of what a individuals top intelligence.
+
+Let's apply it to now. Even as adults we are constantly living in a box. But we are learning to grow and take steps. On May 4th, 2015 a group of adults -with same goal in mind, to become top dog developers- joined together in a cohort to learn new languages and how to apply them! No individual entering has a fixed mindset. They are looking for a challenge, pushing themselves to learn together and on their own. The mindsets will not focus on whether they passed or failed, but what they did wrong and how to improve.
+
+Even as a adults we can learn. and to quote Dr. James A. Moore "There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!"
