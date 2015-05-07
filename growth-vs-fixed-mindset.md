@@ -45,4 +45,4 @@ Knowing what they mean, how do we apply that knowledge? When given an error thos
 Let's apply it to now. Even as adults we are constantly living in a box. But we are learning to grow and take steps. On May 4th, 2015 a group of adults -with same goal in mind, to become great developers- joined together in a cohort to learn new languages and how to apply them! No individual entering has a fixed mindset. They are looking for a challenge, pushing themselves to learn together and on their own. The mindsets will not focus on whether they passed or failed, but what they did wrong and how to improve.
 
 Even as a adults we can learn. and to quote Dr. James A. Moore "There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!"
->>>>>>> f02f7146485cca55b236a8495d8baad1b35412e4:pope410211.github.io/growth-vs-fixed-mindset.md
+
