@@ -30,4 +30,14 @@ Let's apply it to now. Even as adults we are constantly living in a box. But we 
 
 Even as a adults we can learn. and to quote Dr. James A. Moore "There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!"
 
-### FINAL 
+#FINAL
+
+"Not Yet" that was the grade given to students who did not get an "A" on the project. "Not Yet"? What does that imply, how does that help students? Is that even quantifiable? Yet that phrase has helped students improve their grades, their confidence, and their ability to grow into contributing members to society. Mabe we adults could even change mindsets to improve ours -and others- lives.
+
+Before we can go further, we must answer the question - What is growth mindset vs fixed mindset? According to Carol Dweck social psychology Professor at Stanford "A fixed mindset students believe their basic abilities, their intelligence, their talents, are just fixed traits. They have a certain amount and that's that, and then their goal becomes to look smart all the time and never look dumb. In a growth mindset students understand that their talents and abilities can be developed through effort, good teaching and persistence". Simply put, individuals with a growth mindset keep trying, regardless of the set backs and a fixed mindset is like being trapped in box with no room to grow.
+
+Changing mindsets to make lives better
+
+Let's apply it to now. Even as adults we are constantly living in a box. But we are learning to grow and take steps. On May 4th, 2015 a group of adults -with same goal in mind, to become top dog developers- joined together in a cohort to learn new languages and how to apply them! No individual entering has a fixed mindset. They are looking for a challenge, pushing themselves to learn together and on their own. The mindsets will not focus on whether they passed or failed, but what they did wrong and how to improve.
+
+Even as a adults we can learn. and to quote Dr. James A. Moore "There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!"
