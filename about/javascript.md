@@ -14,7 +14,7 @@
     * EX: `typeof 1 // 'number';` or `typeof "one" // 'string';`
 5. length Property (string)
     * Returns the length of a String object.
-6. [console.log]
+6. console.log
     * Outputs a message to the Web Console. (Non standard and should not be used in production) But for the purpose of making some examples easier to follow we will use it
       * EX: `if("We Rock".length * 10 >  5) {
 ... console.log("YES!")
