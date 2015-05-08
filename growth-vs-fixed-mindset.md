@@ -35,10 +35,7 @@ Let's apply it to now. Even as adults we are constantly living in a box. But we 
 
 Even as a adults we can learn. and to quote Dr. James A. Moore "There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!"
 
-<<<<<<< HEAD:growth-vs-fixed-mindset.md
-### FINAL 
-tyring
-=======
+
 #FINAL
 
 "Not Yet" that was the grade given to students who did not get an "A" on the project. "Not Yet"? What does that imply, how does that help students? Is that even quantifiable? Yet that phrase has helped students improve their grades, their confidence, and their ability to grow into contributing members to society. Mabe we adults could even change mindsets to improve ours -and others- lives.
