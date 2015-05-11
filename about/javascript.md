@@ -71,18 +71,21 @@
 ##### *Loops*
 1. [`Loops`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
     * Loops repeat an action some number of times.
-   ``` * 
+    ```
     * var step
     * for (step = 0; step < 5; step++) {
   // Runs 5 times, with values of step 0 through 4.
   console.log('Walking east one step');
-}```
+}
+```
+
 
 ##### *Statements*
 1. [`if`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
     * Executes a statement if a specified condition is true. If the condition is false, another statement can be executed using `else`.
     * EX:
-    
-  `  if (word === "zero"){
+    ```
+   if (word === "zero"){
       return 0;
-    }`
+    }
+    ```
