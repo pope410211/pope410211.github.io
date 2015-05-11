@@ -82,7 +82,7 @@
 1. [`if`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
     * Executes a statement if a specified condition is true. If the condition is false, another statement can be executed using `else`.
     * EX:
-    ```
-    if (word === "zero"){
+    
+  `  if (word === "zero"){
       return 0;
-    }```
+    }`
