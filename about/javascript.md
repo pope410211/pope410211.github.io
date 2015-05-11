@@ -69,7 +69,7 @@
     * The push method appends elements in the order in which they appear. If one of the arguments is an array, it is added as a single element. Use the concat method to join the elements from two or more arrays
 
 ##### *Loops*
-1. [`Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+1. [`Loops`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
     * Loops repeat an action some number of times.
    ``` * 
     * var step
