@@ -64,7 +64,7 @@
 ##### *Loops*
 1. [`Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
     * Loops repeat an action some number of times.
-    * ```
+   ``` * 
     * var step
     * for (step = 0; step < 5; step++) {
   // Runs 5 times, with values of step 0 through 4.
