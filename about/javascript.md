@@ -60,3 +60,14 @@
     * The unshift method inserts elements into the start of an array, so they appear in the same order in which they appear in the argument list.
 3. [`push Method`]()
     * The push method appends elements in the order in which they appear. If one of the arguments is an array, it is added as a single element. Use the concat method to join the elements from two or more arrays
+
+##### *Loops*
+1. [`Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+    * Loops repeat an action some number of times.
+    * ```
+    * var step
+    * for (step = 0; step < 5; step++) {
+  // Runs 5 times, with values of step 0 through 4.
+  console.log('Walking east one step');
+}
+```
