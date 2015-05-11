@@ -10,6 +10,13 @@
     * A variable is a named location for storing a value. That way an unpredictable value can be accessed through a predetermined name.
 3. [`Function`](https://developer.mozilla.org/en-US/docs/Glossary/Function)
     * A function is a code snippet that can be called by other code or by itself, or a variable that refers to the function. When a function is called, arguments are passed to the function as input, and the function can optionally return an output. A function in JavaScript is also an object. An example of a function are **`()`** & **`{}`**.
+    ```
+    function toNumber("one", "one");
+    
+    function (plus(A, B){
+      return toNumber(A) + toNumber(B)
+    }
+    ```
 4. [`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)The typeof operator returns a string indicating the type of the unevaluated operand. (it is **_1_** word!!!)
     * EX: `typeof 1 // 'number';` or `typeof "one" // 'string';`
 5. [`length Property`]()
