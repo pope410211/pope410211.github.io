@@ -1,4 +1,5 @@
-# Wk 1 Rough
+
+# [Wk 1 Rough]()
 
 Week one started off with tons of excitement, and some extreme nervousness.
 I was nervous about my level of coding experience compared to the other
