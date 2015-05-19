@@ -13,4 +13,4 @@
     * I wish I knew this past week that on week 3 we would learn the easy way
     to fix a merge conflict!
  * End of Outline!
- 
+ it
