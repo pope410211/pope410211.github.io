@@ -6,9 +6,9 @@
   * pseudo-classes matches when the user designates an element with a pointing device, but does not necessarily activate it. This style may be overridden by any other link-related pseudo-classes, that is:link, :visited, and :active, appearing in subsequent rules. In order to style appropriately links, you need to put the :hover rule after the :link and :visited rules but before the :active one, as defined by the LVHA-order: :link — :visited — :hover — :active.
 3. `blur`-
   * Applies a Gaussian blur to the input image. The value of ‘radius’ defines the value of the standard deviation to the Gaussian function, or how many pixels on the screen blend into each other, so a larger value will create more blur. If no parameter is provided, then a value 0 is used. The parameter is specified as a CSS length, but does not accept percentage values.
- 4. `border`-
+4. `border`-
    * is a shorthand property for setting the individual border property values in a single place in the style sheet.
- 5. `position`-
+5. `position`-
    * property chooses alternative rules for positioning elements, designed to be useful for scripted animation effects.
 
 
