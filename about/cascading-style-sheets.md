@@ -14,7 +14,7 @@
 
 
 ##Padding-
-    The padding property is a shorthand to avoid setting each side separately (padding-top, padding-right, padding-bottom, padding-left).
+The padding property is a shorthand to avoid setting each side separately (padding-top, padding-right, padding-bottom, padding-left).
 1. Padding Area
    * extends the content area with the empty area between the content and the eventual borders surrounding it. It often has a background, a color or an image (in that order, an opaque image hiding the background color), and is located inside the padding edge. Its dimensions are the padding-box width and the padding-box height.
 2. Padding top, bottom, left, right-
