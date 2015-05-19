@@ -14,12 +14,12 @@
 
 
 #Padding-
-  * The padding property is a shorthand to avoid setting each side separately (padding-top, padding-right, padding-bottom, padding-left).
+   * The padding property is a shorthand to avoid setting each side separately (padding-top, padding-right, padding-bottom, padding-left).
 1. Padding Area
-  * extends the content area with the empty area between the content and the eventual borders surrounding it. It often has a background, a color or an image (in that order, an opaque image hiding the background color), and is located inside the padding edge. Its dimensions are the padding-box width and the padding-box height.
+   * extends the content area with the empty area between the content and the eventual borders surrounding it. It often has a background, a color or an image (in that order, an opaque image hiding the background color), and is located inside the padding edge. Its dimensions are the padding-box width and the padding-box height.
 2. Padding top, bottom, left, right-
-  * The padding-top CSS property of an element sets the padding space required in a particular area of an element.
+   * The padding-top CSS property of an element sets the padding space required in a particular area of an element.
 3. float-
-  * specifies that an element should be taken from the normal flow and placed along the left or right side of its container, where text and inline elements will wrap around it.
+   * specifies that an element should be taken from the normal flow and placed along the left or right side of its container, where text and inline elements will wrap around it.
   
   
