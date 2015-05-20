@@ -15,6 +15,8 @@
  * End of Outline!
  
 
+#ROUGH
+
 In week 2 we began to peel back the code like a banana, start deconsrtucting web pages and rebuilding- I guess its not really like a banana. One of the best/most entertaining moments in the education was watching all the ads of wallstreet journal(or whateever online newspaper) disappear, denying ad revenue. We created and worked more on user stories which were fun, and I feell I have down pretty well. Howevere that leads us to the following message:
 
 Only professionals should mess with accordions. Not sure what I did I broke something (see later in this journal). We have been able to open and close the Nested accordions, have arrows, etc. There was a lot of JavaScript this week. It was great albeit fairly challenging for me, and I know I am not feeling fully prepared in the world of JavaScripts - Yet.
