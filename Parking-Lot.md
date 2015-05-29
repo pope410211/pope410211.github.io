@@ -4,6 +4,10 @@ Examples of box-sizing/border-box.
 Toggling View Mode Switch, using Jquery.
 
 
+SIMULATE IE
+
+IN Test driven development do we leave the packages in or delet before shipping?
+
 
 
 
