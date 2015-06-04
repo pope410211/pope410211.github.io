@@ -97,10 +97,11 @@ textarea {
 body {
 
 }
+
 header {
   text-align: center;
   background-color: #cacaca;
-  padding: 2em 0 5em 0;
+  padding: 0 0 0 0;
 }
 
 .logo1 .imglogo1resp {
@@ -108,26 +109,24 @@ header {
   margin: 0 auto 0 auto;
 }
 
-.socialiconsH > *{
-  display: block;
-  float: left;
-  list-style: none;
+.socialiconsH{
+display: inline-block;
+
+}
+
+.si1 li{
+float: left;
+list-style: none;
+width: 10%;
+min-width: 1in;
+max-width: 4in;
+
 }
 
 .name{
   color:white;
   font-size: 70pt;
-  padding: auto;
 
-}
-.si1 > * {
-  float: left;
-  padding: 0 0 0 40pt;
-}
-
-.si2 > * {
-  float: left;
-  padding: 0 0 0 40pt;
 }
 
 
