@@ -98,7 +98,7 @@ body {
 
 }
 
-header {
+.blog {
   text-align: center;
   background-color: #cacaca;
   padding: 0 0 0 0;
@@ -112,21 +112,35 @@ header {
 .socialiconsH{
 display: inline-block;
 
+
 }
 
-.si1 li{
+.si1 li {
 float: left;
 list-style: none;
-width: 10%;
-min-width: 1in;
-max-width: 4in;
-
 }
-
+.si1 li:hover {
+  cursor: pointer;
+}
 .name{
   color:white;
   font-size: 70pt;
 
+}
+
+/*review below code for spacing!*/
+.bio li {
+  background-color: #1761AE;
+  list-style: none;
+  margin-left: -20em;
+  min-height: 400px;
+}
+
+.codemonkey li{
+  background-color: #464648;
+  list-style: none;
+  margin-left: -20em;
+  min-height: 200px;
 }
 
 
