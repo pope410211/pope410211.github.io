@@ -113,7 +113,10 @@ body {
 display: inline-block;
 }
 
-
+.sizE img{
+  width: 54px;
+  height: 54px;
+}
 
 .si1 li {
 float: left;
