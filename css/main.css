@@ -97,14 +97,12 @@ textarea {
 body {
 
 }
-.scrollup {
-  position: fixed;
-  text-align:inherit;
-}
+
 
 .blog {
   text-align: center;
   background-color: #cacaca;
+  width: 100%;
   padding: 0 0 0 0;
 }
 
@@ -165,8 +163,19 @@ padding: 0 1em 1em 1em;
   margin-left: -20em;
   min-height: 200px;
 }
+.scrollup {
+  position: fixed;
+  text-decoration: none;
+  color: #cacaca;
+  margin-top: 5em;
+  margin-left: 40em;
+  border: 1px solid #cacaca;
+  border-radius: 50%;
+}
 
-
+.scrollup:hover {
+  font-weight: bolder;
+}
 
 
 
