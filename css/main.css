@@ -124,13 +124,15 @@ float: left;
 list-style: none;
 padding: 0 1em 1em 1em;
 }
-.si1 li:hover {
-  cursor: pointer;
-}
+
 
 .si1 a{
-  border-top: 1pt solid #1761AE;
+  border-top: 2pt solid #1761AE;
   padding-top: 1em;
+}
+.si1 a:hover{
+  border-top: none;
+  cursor: pointer;
 }
 .name{
   color:white;
