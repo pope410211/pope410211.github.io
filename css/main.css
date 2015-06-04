@@ -95,12 +95,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body {
-
+  cursor: default;
 }
+
 
 .blog {
   text-align: center;
   background-color: #cacaca;
+  width: 100%;
   padding: 0 0 0 0;
 }
 
@@ -108,6 +110,16 @@ body {
   max-height:350pt;
   margin: 0 auto 0 auto;
 }
+
+.logo1 .imglogo1resp:hover {
+  cursor: pointer;
+  -webkit-animation:spin 8s linear infinite;
+    -moz-animation:spin 8s linear infinite;
+    animation:spin 8s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
 .socialiconsH{
 display: inline-block;
@@ -161,8 +173,21 @@ padding: 0 1em 1em 1em;
   margin-left: -20em;
   min-height: 200px;
 }
+.scrollup {
+  position: fixed;
+  text-decoration: none;
+  color: #cacaca;
+  margin-top: 5em;
+  margin-left: 40em;
+  border: 1px solid #cacaca;
+  border-radius: 50%;
+}
 
-
+.scrollup:hover {
+  font-weight: bolder;
+  border: 2px solid red;
+  color: red;
+}
 
 
 
