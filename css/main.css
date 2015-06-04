@@ -105,34 +105,38 @@ body {
 }
 
 .logo1 .imglogo1resp {
-  max-height:350px;
+  max-height:350pt;
   margin: 0 auto 0 auto;
 }
 
 .socialiconsH{
 display: inline-block;
+padding-top: 20pt;
 }
 
 .sizE img{
-  width: 54px;
-  height: 54px;
+  width: 22pt;
+  height: 22pt;
 }
 
 .si1 li {
 float: left;
 list-style: none;
-padding: 0 1em 0 1em;
-line-height: normal;
+padding: 0 1em 1em 1em;
 }
 .si1 li:hover {
   cursor: pointer;
+}
+
+.si1 a{
+  border-top: 1pt solid #1761AE;
+  padding-top: 1em;
 }
 .name{
   color:white;
   font-size: 70pt;
   margin: 0;
-  line-height: 1em;
-
+  line-height: 1pt;
 }
 
 /*CSS BELOW IS PART PLACEHOLDER*/
