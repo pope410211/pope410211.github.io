@@ -111,8 +111,11 @@ body {
 
 .socialiconsH{
 display: inline-block;
+}
 
-
+.socialiconsH li img{
+  width: 54px;
+  height: 54px;
 }
 
 .si1 li {
@@ -134,7 +137,12 @@ list-style: none;
   background-color: #1761AE;
   list-style: none;
   margin-left: -20em;
-  min-height: 400px;
+  min-height: 200px;
+}
+
+.bio img{
+  width: 150px;
+  height: 150px;
 }
 
 .codemonkey li{
