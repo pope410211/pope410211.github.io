@@ -121,6 +121,8 @@ display: inline-block;
 .si1 li {
 float: left;
 list-style: none;
+padding: 0 1em 0 1em;
+line-height: normal;
 }
 .si1 li:hover {
   cursor: pointer;
@@ -128,13 +130,15 @@ list-style: none;
 .name{
   color:white;
   font-size: 70pt;
+  margin: 0;
+  line-height: 1em;
 
 }
 
 /*CSS BELOW IS PART PLACEHOLDER*/
 /*review below code for spacing!*/
 .bio li {
-  background-color: #1761AE;
+  background-color: #464648;
   list-style: none;
   margin-left: -20em;
   min-height: 200px;
@@ -146,7 +150,7 @@ list-style: none;
 }
 
 .codemonkey li{
-  background-color: #464648;
+  background-color: #1761AE;
   list-style: none;
   margin-left: -20em;
   min-height: 200px;
