@@ -97,6 +97,10 @@ textarea {
 body {
 
 }
+.scrollup {
+  position: fixed;
+  text-align:inherit;
+}
 
 .blog {
   text-align: center;
