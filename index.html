@@ -17,13 +17,26 @@
     <body>
       <main class="blog">
       <header>
+        <!-- <nav class="navbar-fadeIn">
+          <div cass="fadeIn">
+            <ul class="yesdisplay" id="staticimg">
+            <li class="imgL"><img src="img/Logo1.png" class="imgnav"></img></li>
+          </ul>
+            <ul class="yesdisplay" id="static">
+              <li class="sizE1"><a href="https://www.facebook.com/nicholas.pope.524"><img src="img/facebook29.png"></img></a></li>
+              <li class="sizE1"><a href="https://twitter.com/pope410211"><img src="img/twitter1.png"></img></a></li>
+              <li class="sizE1"><a href="https://plus.google.com/113920606278670725370/about/p/pub"><img src="img/google-plus.png"></img></a></li>
+              <li class="sizE1"><a href="https://www.linkedin.com/in/pope410211"><img src="img/linkedin12.png"></img></a></li>
+            </ul>
+          </div>
+        </nav> -->
         <nav class="navbar-navmain" >
           <div class="logo1">
             <img src="img/Logo1.png" class="imglogo1resp"></img>
           </div>
         </header>
           <div class="socialiconsH">
-            <ul class="si1">
+            <ul class="si1" id="fixed">
           <li class="sizE"><a href="https://www.facebook.com/nicholas.pope.524"><img src="img/facebook29.png"></img></a></li>
           <li class="sizE"><a href="https://twitter.com/pope410211"><img src="img/twitter1.png"></img></a></li>
           <li class="sizE"><h3 class="name">Nick Pope</h3></li>
@@ -41,7 +54,9 @@
         </div>
         <div class="codemonkey">
           <ul>
-            <li></li>
+            <li>{% for post in site.posts %}
+          <a href="{{post.url}}">{{post.title}}</a>
+            { % endfor %}</li>
             <li></li>
           </ul>
         </div>
