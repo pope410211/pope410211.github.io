@@ -94,14 +94,134 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body { /*review margin, float and the `!important;` cmmnd*/
+  cursor: default;
+  max-width: 100%;
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+.blog {
+  text-align: center;
+  background-color: #cacaca;
+  width: 100%;
+}
+
+/*LOGO*/
+.logo1 .imglogo1resp {
+  max-height:350pt;
+  margin: 0 auto 0 auto;
+}
+
+/*Do Not Completley grock!*/
+.logo1 .imglogo1resp:hover {
+  cursor: crosshair;
+  -webkit-animation:spin 8s linear infinite;
+    -moz-animation:spin 8s linear infinite;
+    animation:spin 8s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+.socialiconsH{
+display: inline-block;
+margin: 30pt auto 15pt auto;
+
+}
+
+.sizE img{
+  width: 22pt;
+  height: 22pt;
+}
+
+.si1 li {
+float: left;
+list-style: none;
+padding: 0 1em 1em 1em;
+}
 
 
+.si1 a{
+  border-top: 2pt solid #1761AE;
+  padding-top: 1em;
+}
+.si1 a:hover{
+  border-top: none;
+  cursor: pointer;
+}
+/*shaker*/
 
+@-webkit-keyframes thumb {
+	0% { -webkit-transform: scale(1); }
+	50% { -webkit-transform: scale(0.9); }
+	100% { -webkit-transform: scale(1); }
+}
 
+.si1 img:hover
+{
+	-webkit-animation-name: thumb;
+	-webkit-animation-duration: 200ms;
+	-webkit-transform-origin:50% 50%;
+	-webkit-animation-iteration-count: 2;
+	-webkit-animation-timing-function: linear;
+}
+/*end shaker*/
 
+.name{
+  color:white;
+  font-size: 70pt;
+  margin: 0;
+  line-height: 1pt;
+}
 
+/*CSS BELOW IS PART PLACEHOLDER*/
+/*review below code for spacing!*/
+.bio {
+  background-color: #464648;
 
+}
+/*Best practice??*/
+ul {
+  margin:0;
+}
+.bio li{
+  list-style: none;
+}
 
+.bio img{
+  width: 150px;
+  height: 150px;
+}
+
+.codemonkey {
+  background-color: #1761AE;
+  clear: both;
+}
+.codemonkey li{
+  list-style: none;
+  min-height: 200px;
+
+}
+.scrollup {
+  position: fixed;
+  text-decoration: none;
+  text-align: center;
+  color: #cacaca;
+  margin-top: 5em;
+  margin-left: 15em;
+  border: 1px solid #cacaca;
+  border-radius: 50%;
+  width: .87em;
+  height: .87em;
+  z-index: 10000;
+}
+
+.scrollup:hover {
+  font-weight: bolder;
+  border: 2px solid red;
+  color: red;
+}
 
 
 
