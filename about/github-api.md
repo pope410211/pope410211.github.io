@@ -16,4 +16,17 @@
     * How do I know that there is more data available?
 
 
-## PT.1
+## PT.1 First Question
+1. API's will handle authentication in a few different ways, some examples are:
+        * Basic Authentication - UserName and Password
+        * OAuth2 Token (sent in a header)
+        * OAuth2 Token (sent as a parameter)
+        * OAuth2 Key/Secret - Should only be used in server to server scenario (further review needed).
+        * Failed login limit
+    * You need to authenticate when using  API to verify you have the proper rights to access the information.
+    * An unauthenticated request will send the request to a server, and bounce back with what,
+    if any, authentication is needed. (usually Basic).
+    * Basic Authentication, OAuth2 Token, & OAuth2 Key/Secret.
+
+## PT.2 Second Question
+2. 
