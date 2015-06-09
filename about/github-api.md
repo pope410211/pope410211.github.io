@@ -29,4 +29,21 @@
     * Basic Authentication, OAuth2 Token, & OAuth2 Key/Secret.
 
 ## PT.2 Second Question
-2. 
+2. You send Reqests to the server for the information.
+    * For Profile Info, a Basic Authentication with a JSON file returned.
+    * Patch
+
+## PT.3 Third Question
+3. Yes, there is a limit to the number of requests you can make, and depend on the typy of reqs. made.
+    * Yes there is a way of extending the the limit. You would need to pass your app's client
+    ID & Secret as a part of a query string. (**NOTE**: For security reasons this should only be done
+      server to server).
+    * When you hit your limit, you will receive an error response. However you can check your
+    rate limit status without incurring an API hit.
+
+## PT.4 Fourth Question
+4. If there is too much data (default is 30 items) returned you can do the following:
+    * You can specify further pages with the `?page` parameters. For some resources,
+    you can also set a custom page size up to 100 pages with the `?per_page` parameter.
+    * To find out if there is further information to gather, you can use the `rel` values,
+    next - to see if there is a next page, & last - to see if there is a previous page.
