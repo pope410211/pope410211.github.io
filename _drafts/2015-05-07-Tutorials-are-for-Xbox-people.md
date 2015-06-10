@@ -46,6 +46,8 @@
   },
   ```
   
+  
+  
     1. You may have noticed a `,` after `"tests": "-mocha"` to separate functions.
   5. On the command line all you will have to do now is type `npm start` and VOILA!
 
