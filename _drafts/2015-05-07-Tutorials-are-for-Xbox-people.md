@@ -39,6 +39,7 @@
   it knows where the path to open the files are.
   4. It should look like this;
   ```
+  ```
   "scripts": {
     "tests": "-mocha",
     "start": ""browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/index.html"
