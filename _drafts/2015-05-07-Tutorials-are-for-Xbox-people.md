@@ -44,6 +44,7 @@
     "start": ""browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/index.html"
   },
   ```
+  
     1. You may have noticed a `,` after `"tests": "-mocha"` to separate functions.
   5. On the command line all you will have to do now is type `npm start` and VOILA!
 
