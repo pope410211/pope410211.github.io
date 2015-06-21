@@ -33,6 +33,11 @@
       margin-left: ($grid-width/8) * 2;
     }
 
+    .unit-span-5 {
+      @extend .unit-span-1;
+      width: ($grid-width/8) * 8;
+    }
+
 
   }
 

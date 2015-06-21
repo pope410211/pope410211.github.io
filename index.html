@@ -81,22 +81,24 @@ title: It's on Like Donkey Kong
           <li class="sizE"><a href="https://www.linkedin.com/in/pope410211"><img src="img/linkedin12.png"></img></a></li>
         </ul>
       </div>
+        </nav>
     </section>
 
-          </nav>
-          <div>
-            <a href="#" class="scrollup">&#8963;</a>
-          </div>
+
+
           <section class="grid">
-          <div class="bio unit-span-2">
-            <ul>
+          <div class="unit-span-5 bio">
+            <ul class="about">
             <li><img src="img/NickAvatar.png"></img></li>
+            <li><p>Hi! My name is Nick, I am a former hospitality professional, with more than a decade
+            of experience. I recently followed my passion for technology by enrolling into <strong>The Iron Yard-Orlando</strong>
+            . I'm looking forward to gaining new experiences in this amazing field!</p></li>
             <li></li>
           </ul>
         </div>
         <section>
           <section class="grid">
-        <div class="codemonkey unit-span-1">
+        <div class="codemonkey unit-span-5">
           <ul>
               {% for post in site.posts %}
           <li><a href="{{post.url}}">{{post.title}}</a></li>
@@ -115,6 +117,8 @@ title: It's on Like Donkey Kong
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
 
-
+        <div>
+          <a href="#" class="scrollup">&#8963;</a>
+        </div>
     </body>
 </html>
