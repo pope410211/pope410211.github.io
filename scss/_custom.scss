@@ -1,94 +1,83 @@
-body { /*review margin, float and the `!important;` cmmnd*/
-  cursor: default;
-  max-width: 100%;
-  margin: 0 auto !important;
-  float: none !important;
+body {
+  background-color: black;
 }
 
-.blog {
-  text-align: center;
-  background-color: #cacaca;
-  width: 100%;
-}
 
 /*LOGO*/
 .logo1 .imglogo1resp {
   max-height:350pt;
-  margin: 0 auto 0 auto;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
-/*Do Not Completley grock!*/
-.logo1 .imglogo1resp:hover {
-  cursor: crosshair;
-  -webkit-animation:spin 8s linear infinite;
-    -moz-animation:spin 8s linear infinite;
-    animation:spin 8s linear infinite;
-}
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
+.color1{
+  background-color: #cacaca;
+}
 .socialiconsH{
 display: inline-block;
-margin: 30pt auto 15pt auto;
+width: 100%;
 
-}
 
 .sizE img{
   width: 22pt;
   height: 22pt;
 }
+.si1 {
 
-.si1 li {
-float: left;
+li {
 list-style: none;
-padding: 0 1em 1em 1em;
+display: inline-block;
+padding: 0em 1em 1em 1em;
+
 }
 
 
-.si1 a{
+
+img{
+  padding-top: 2ex;
+}
+
+ a{
   border-top: 2pt solid #1761AE;
-  padding-top: 1em;
+
 }
-.si1 a:hover{
+ a:hover{
   border-top: none;
   cursor: pointer;
+    }
+
+  }
 }
 
+#iconR {
+  float: right;
+}
+
+#iconL {
+  float: left;
+}
 
 .name{
   color:white;
-  font-size: 70pt;
-  margin: 0;
-  line-height: 1pt;
-}
+  font-size: 40pt;
+  margin: 0 auto;
+  text-align: center;
+  }
 
 /*CSS BELOW IS PART PLACEHOLDER*/
 /*review below code for spacing!*/
 .bio {
   background-color: #464648;
 
-}
-/*Best practice??*/
-ul {
-  margin:0;
-}
-.bio li{
-  list-style: none;
-}
+  li{
+    list-style: none;
+  }
 
-.bio img{
-  width: 150px;
-  height: 150px;
-}
-
-.codemonkey {
-  background-color: #1761AE;
-  clear: both;
-}
-.codemonkey li{
-  list-style: none;
-  min-height: 200px;
+  img{
+    height: 10em;
+    width: 10em;
+  }
 
 }
 .scrollup {
