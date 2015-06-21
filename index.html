@@ -69,14 +69,14 @@ title: It's on Like Donkey Kong
         </header>
         <section class="grid socialiconsH color1">
           <div class="unit-span-2">
-            <ul class="si1">
+            <ul class="si1" id="iconR">
           <li class="sizE"><a href="https://www.facebook.com/nicholas.pope.524"><img src="img/facebook29.png"></img></a></li>
           <li class="sizE"><a href="https://twitter.com/pope410211"><img src="img/twitter1.png"></img></a></li>
           </ul>
         </div>
           <div class="unit-span-4"><h3 class="name">Nick Pope</h3></div>
           <div class="unit-span-2">
-            <ul class="si1">
+            <ul class="si1" id="iconL">
           <li class="sizE"><a href="https://plus.google.com/113920606278670725370/about/p/pub"><img src="img/google-plus.png"></img></a></li>
           <li class="sizE"><a href="https://www.linkedin.com/in/pope410211"><img src="img/linkedin12.png"></img></a></li>
         </ul>
@@ -84,24 +84,27 @@ title: It's on Like Donkey Kong
     </section>
 
           </nav>
-          <!-- <div>
+          <div>
             <a href="#" class="scrollup">&#8963;</a>
           </div>
-          <div class="bio">
+          <section class="grid">
+          <div class="bio unit-span-2">
             <ul>
             <li><img src="img/NickAvatar.png"></img></li>
             <li></li>
           </ul>
-        </div> -->
-        <!-- <div class="codemonkey">
+        </div>
+        <section>
+          <section class="grid">
+        <div class="codemonkey unit-span-1">
           <ul>
               {% for post in site.posts %}
           <li><a href="{{post.url}}">{{post.title}}</a></li>
             {% endfor %}
             <li></li>
           </ul>
-        </div> -->
-
+        </div>
+</section>
 
       </main>
 

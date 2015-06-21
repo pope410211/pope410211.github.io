@@ -1,4 +1,6 @@
-
+body {
+  background-color: black;
+}
 
 
 /*LOGO*/
@@ -14,42 +16,68 @@
 }
 .socialiconsH{
 display: inline-block;
+width: 100%;
 
 
 .sizE img{
   width: 22pt;
   height: 22pt;
 }
+.si1 {
 
-.si1 li {
-float: left;
+li {
 list-style: none;
+display: inline-block;
 padding: 0em 1em 1em 1em;
+
 }
 
-.si1 img{
+
+
+img{
   padding-top: 2ex;
 }
-.si1 a{
+
+ a{
   border-top: 2pt solid #1761AE;
+
 }
-.si1 a:hover{
+ a:hover{
   border-top: none;
   cursor: pointer;
+    }
+
+  }
 }
 
+#iconR {
+  float: right;
+}
+
+#iconL {
+  float: left;
 }
 
 .name{
   color:white;
-  font-size: 60pt;
-  vertical-align: baseline;
+  font-size: 40pt;
+  margin: 0 auto;
+  text-align: center;
   }
 
 /*CSS BELOW IS PART PLACEHOLDER*/
 /*review below code for spacing!*/
 .bio {
   background-color: #464648;
+
+  li{
+    list-style: none;
+  }
+
+  img{
+    height: 10em;
+    width: 10em;
+  }
 
 }
 .scrollup {

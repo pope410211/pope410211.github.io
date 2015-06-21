@@ -77,6 +77,9 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  background-color: black; }
+
 /*LOGO*/
 .logo1 .imglogo1resp {
   max-height: 350pt;
@@ -87,13 +90,14 @@ textarea {
   background-color: #cacaca; }
 
 .socialiconsH {
-  display: inline-block; }
+  display: inline-block;
+  width: 100%; }
   .socialiconsH .sizE img {
     width: 22pt;
     height: 22pt; }
   .socialiconsH .si1 li {
-    float: left;
     list-style: none;
+    display: inline-block;
     padding: 0em 1em 1em 1em; }
   .socialiconsH .si1 img {
     padding-top: 2ex; }
@@ -103,15 +107,27 @@ textarea {
     border-top: none;
     cursor: pointer; }
 
+#iconR {
+  float: right; }
+
+#iconL {
+  float: left; }
+
 .name {
   color: white;
-  font-size: 60pt;
-  vertical-align: baseline; }
+  font-size: 40pt;
+  margin: 0 auto;
+  text-align: center; }
 
 /*CSS BELOW IS PART PLACEHOLDER*/
 /*review below code for spacing!*/
 .bio {
   background-color: #464648; }
+  .bio li {
+    list-style: none; }
+  .bio img {
+    height: 10em;
+    width: 10em; }
 
 .scrollup {
   position: fixed;
@@ -137,10 +153,8 @@ textarea {
   margin: 0 auto; }
   .container .grid {
     max-width: 100%;
-    margin: 0 auto;
-    outline: 2px solid red; }
+    margin: 0 auto; }
     .container .grid .unit-span-1, .container .grid .unit-span-2, .container .grid .unit-span-4, .container .grid .offset-2 {
-      outline: 2px solid blue;
       float: left;
       width: 12.5%;
       padding-right: 2em;

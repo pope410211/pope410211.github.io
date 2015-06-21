@@ -8,10 +8,10 @@
     max-width: $grid-width;
     margin: 0 auto;
     @extend clearfix;
-    outline: 2px solid red;
+    // outline: 2px solid red;
 
     .unit-span-1 {
-  outline: 2px solid blue;
+  // outline: 2px solid blue;
   float: left;
   width: ($grid-width/8);
   padding-right: 2em;
