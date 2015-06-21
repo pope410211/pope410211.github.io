@@ -19,7 +19,33 @@ title: It on Like Donkey Kong
         <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
-      <main class="blog">
+      <main class="container">
+
+        <section class="grid">
+        <div class="unit-span-1">1</div>
+        <div class="unit-span-1">2</div>
+        <div class="unit-span-1">3</div>
+        <div class="unit-span-1">4</div>
+        <div class="unit-span-1">5</div>
+        <div class="unit-span-1">6</div>
+        <div class="unit-span-1">7</div>
+        <div class="unit-span-1">8</div>
+      </section> <!-- Grid -->
+      <section class="grid">
+        <div class="unit-span-2">col-2</div>
+        <div class="unit-span-4">col-4</div>
+        <div class="unit-span-2">col-2</div>
+      </section>
+      <section class="grid">
+        <div class="unit-span-4 offset-2">Offset-4</div>
+      </section>
+
+
+
+
+
+
+
       <header>
         <!-- <nav class="navbar-fadeIn">
           <div cass="fadeIn">
@@ -33,21 +59,33 @@ title: It on Like Donkey Kong
               <li class="sizE1"><a href="https://www.linkedin.com/in/pope410211"><img src="img/linkedin12.png"></img></a></li>
             </ul>
           </div>
-        </nav> -->
+        </nav>  -->
+
         <nav class="navbar-navmain" >
+          <section class="grid">
           <div class="logo1">
-            <img src="img/Logo1.png" class="imglogo1resp"></img>
+            <img src="img/Logo1.png" class="imglogo1resp offset-2"></img>
           </div>
+        </section>
         </header>
-          <div class="socialiconsH">
-            <ul class="si1" id="fixed">
+        <section class="grid">
+          <div class="socialiconsH unit-span-2">
+            <ul class="si1">
           <li class="sizE"><a href="https://www.facebook.com/nicholas.pope.524"><img src="img/facebook29.png"></img></a></li>
           <li class="sizE"><a href="https://twitter.com/pope410211"><img src="img/twitter1.png"></img></a></li>
-          <li class="sizE"><h3 class="name">Nick Pope</h3></li>
+          </ul>
+          <div class="unit-span-4"><h3 class="name">Nick Pope</h3></div>
+          <div class="unit-span-2">
+            <ul class="si1">
           <li class="sizE"><a href="https://plus.google.com/113920606278670725370/about/p/pub"><img src="img/google-plus.png"></img></a></li>
           <li class="sizE"><a href="https://www.linkedin.com/in/pope410211"><img src="img/linkedin12.png"></img></a></li>
-            </ul>
+        </ul>
+      </div>
+    </div>
+    </section>
+
           </nav>
+          <!-- <div>
             <a href="#" class="scrollup">&#8963;</a>
           </div>
           <div class="bio">
@@ -55,15 +93,15 @@ title: It on Like Donkey Kong
             <li><img src="img/NickAvatar.png"></img></li>
             <li></li>
           </ul>
-        </div>
-        <div class="codemonkey">
+        </div> -->
+        <!-- <div class="codemonkey">
           <ul>
               {% for post in site.posts %}
           <li><a href="{{post.url}}">{{post.title}}</a></li>
             {% endfor %}
             <li></li>
           </ul>
-        </div>
+        </div> -->
 
 
       </main>
