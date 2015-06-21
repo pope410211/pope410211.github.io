@@ -78,7 +78,8 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body {
-  background-color: black; }
+  background-color: black;
+  color: white; }
 
 /*LOGO*/
 .logo1 .imglogo1resp {
@@ -122,20 +123,23 @@ body {
 /*CSS BELOW IS PART PLACEHOLDER*/
 /*review below code for spacing!*/
 .bio {
-  background-color: #464648; }
+  background-color: #464648;
+  display: inline-block;
+  float: left; }
   .bio li {
     list-style: none; }
   .bio img {
     height: 10em;
     width: 10em; }
 
+.codemonkey {
+  background-color: #1761AE; }
+
 .scrollup {
   position: fixed;
   text-decoration: none;
   text-align: center;
   color: #cacaca;
-  margin-top: 5em;
-  margin-left: 15em;
   border: 1px solid #cacaca;
   border-radius: 50%;
   width: .87em;
@@ -154,7 +158,7 @@ body {
   .container .grid {
     max-width: 100%;
     margin: 0 auto; }
-    .container .grid .unit-span-1, .container .grid .unit-span-2, .container .grid .unit-span-4, .container .grid .offset-2 {
+    .container .grid .unit-span-1, .container .grid .unit-span-2, .container .grid .unit-span-4, .container .grid .offset-2, .container .grid .unit-span-5 {
       float: left;
       width: 12.5%;
       padding-right: 2em;
@@ -165,6 +169,8 @@ body {
       width: 50%; }
     .container .grid .offset-2 {
       margin-left: 25%; }
+    .container .grid .unit-span-5 {
+      width: 100%; }
 
 /* ==========================================================================
    Helper classes
