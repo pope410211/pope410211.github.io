@@ -4,19 +4,14 @@
 /*LOGO*/
 .logo1 .imglogo1resp {
   max-height:350pt;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
-/*Do Not Completley grock!*/
-.logo1 .imglogo1resp:hover {
-  cursor: crosshair;
-  -webkit-animation:spin 8s linear infinite;
-    -moz-animation:spin 8s linear infinite;
-    animation:spin 8s linear infinite;
-}
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
+.color1{
+  background-color: #cacaca;
+}
 .socialiconsH{
 display: inline-block;
 
@@ -29,13 +24,14 @@ display: inline-block;
 .si1 li {
 float: left;
 list-style: none;
-// padding: 1em 1em 1em 1em;
+padding: 0em 1em 1em 1em;
 }
 
-
+.si1 img{
+  padding-top: 2ex;
+}
 .si1 a{
   border-top: 2pt solid #1761AE;
-  // padding-top: 1em;
 }
 .si1 a:hover{
   border-top: none;
@@ -46,8 +42,12 @@ list-style: none;
 
 .name{
   color:white;
-  font-size: 70pt;
-}
+  font-size: 60pt;
+  text-align: center;
+  margin: auto;
+  width: 0 1em 0 1em;
+  padding: 0 3em 0 3em;
+  }
 
 /*CSS BELOW IS PART PLACEHOLDER*/
 /*review below code for spacing!*/
