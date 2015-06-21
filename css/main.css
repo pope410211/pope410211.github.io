@@ -106,10 +106,7 @@ textarea {
 .name {
   color: white;
   font-size: 60pt;
-  text-align: center;
-  margin: auto;
-  width: 0 1em 0 1em;
-  padding: 0 3em 0 3em; }
+  vertical-align: baseline; }
 
 /*CSS BELOW IS PART PLACEHOLDER*/
 /*review below code for spacing!*/
