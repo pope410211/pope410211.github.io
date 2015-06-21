@@ -3,3 +3,7 @@ node_modules
 .gitattributes
 .htaccess
 .yo-rc.json
+src/css/main.css
+src/css/normalize.css
+bower_components
+_site
