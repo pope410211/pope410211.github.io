@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/test/index.html",
-    "start": "browser-sync start --server --files='index.html, css/*.css, js/*.js'"
+    "start": "browser-sync start --server --files='index.html, css/*.css, js/*.js'",
+    "bower:install": "bower install --save",
+    "postbower:install": "wiredep --s src/index.html",
+    "sass": "node-sass scss/main.scss -o css/"
   },
   "repository": {
     "type": "git",
@@ -16,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/pope410211/pope410211.github.io/issues"
   },
-  "homepage": "https://github.com/pope410211/pope410211.github.io"
+  "homepage": "https://github.com/pope410211/pope410211.github.io",
+  "devDependencies": {
+    "browser-sync": "^2.7.12",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.1",
+    "node-sass": "^3.2.0",
+    "wiredep": "^2.2.2"
+  }
 }
