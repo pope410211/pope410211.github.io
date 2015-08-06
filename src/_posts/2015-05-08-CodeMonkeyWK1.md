@@ -1,3 +1,9 @@
+---
+layout: post
+date: 2015-05-08
+title: Code Monkey week-1
+categories: TIY-Essay
+---
 
 # [Wk 1 Rough]()
 

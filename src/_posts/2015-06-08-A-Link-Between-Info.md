@@ -1,3 +1,11 @@
+---
+layout: post
+date: 2015-06-18
+title: A Link Between Info
+categories: TIY-Essay
+---
+
+
 ## What is my favorite link to use thus far? [**CSS TRICKS**](https://css-tricks.com/)
 
 Why? It is awesome. As the name implies it has tips and *tricks* for CSS and various

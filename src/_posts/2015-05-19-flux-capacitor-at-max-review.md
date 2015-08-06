@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2015-05-19
+title: flux capacitor at max
+categories: TIY-Essay
+---
+
 Week 3,
 
 Looking back, when I started the Iron Yard on May the fourth ( I did hope the fourth

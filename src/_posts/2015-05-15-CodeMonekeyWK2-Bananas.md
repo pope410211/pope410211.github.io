@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2015-05-15
+title: Code Monkey week-2-Bananas
+categories: TIY-Essay
+---
+
 #Peeling the Banana!
 
  * What did we learn in Week 2 at The Iron Yard Orlando?
