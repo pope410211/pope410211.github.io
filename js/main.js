@@ -1,4 +1,3 @@
-<script type="text/javascript">
 (function($) {
     $(document).ready(function(){
         $(window).scroll(function(){
@@ -10,4 +9,3 @@
         });
     });
 })(jQuery);
-</script>
