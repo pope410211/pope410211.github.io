@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Nick Pope -- <role> -- @@pope410211
+    Nick Pope -- <role> -- @pope410211
 
 # THANKS
 
