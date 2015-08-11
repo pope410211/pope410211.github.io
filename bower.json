@@ -1,20 +1,7 @@
 {
-  "name": "pope410211.github.io",
+  "name": "pope410211-github-io",
   "version": "0.0.0",
-  "homepage": "https://github.com/pope410211/pope410211.github.io",
-  "authors": [
-    "Nick Pope <pope410211@gmail.com>"
-  ],
-  "license": "CCO",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
-    "jQuery": "~2.1.4",
-    "normalize.css": "~3.0.3"
+    "jQuery": "~2.1.4"
   }
 }
