@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Nicholas Pope</title>
+ <link href="localhost:4000/atom.xml" rel="self"/>
+ <link href="localhost:4000/"/>
+ <updated>2015-08-11T15:25:42-04:00</updated>
+ <id>localhost:4000</id>
+ <author>
+   <name>pope410211</name>
+   <email>pope410211@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Testing</title>
+   <link href="localhost:4000/website/2015/08/06/test.html"/>
+   <updated>2015-08-06T00:00:00-04:00</updated>
+   <id>localhost:4000/website/2015/08/06/test</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/site-mockups/lotrt-gold.png&quot; alt=&quot;myTestIMG&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Link Between Info</title>
+   <link href="localhost:4000/tiy-essay/2015/06/18/A-Link-Between-Info.html"/>
+   <updated>2015-06-18T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/06/18/A-Link-Between-Info</id>
+   <content type="html">&lt;h2&gt;What is my favorite link to use thus far? &lt;a href=&quot;https://css-tricks.com/&quot;&gt;&lt;strong&gt;CSS TRICKS&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Why? It is awesome. As the name implies it has tips and &lt;em&gt;tricks&lt;/em&gt; for CSS and various
+other languages. When it came to spacing and or various needs for CSS I would often
+go and review Chris Coyer&amp;rsquo;s blog, and explanations ( and other authors, I am sure, I am bad at
+  verifying who the authors were). The information is generally relevant, easy to follow ( with basic - intermediate CSS). And for information that wasn&amp;rsquo;t understood it would be easier to find the information on the subject.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No-Name</title>
+   <link href="localhost:4000/tiy-essay/2015/06/11/No-Name.html"/>
+   <updated>2015-06-11T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/06/11/No-Name</id>
+   <content type="html">&lt;h3&gt;MY journal&amp;hellip;.&lt;/h3&gt;
+
+&lt;p&gt;Time flies! I couldn&amp;rsquo;t believe it is already week 7! Wow! &amp;lt;!&amp;ndash;more&amp;ndash;&amp;gt; It is hard to believe
+how much we have learned. And as end near, and the start of our new careers on
+the horizon, it is hard to feel fully ready for that day! I think most of us (probably all)
+are nervous about being ready to enter the field. However recently working with these API&amp;rsquo;s and building websites from scratch have improved our self confidence in programming!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>flux capacitor at max</title>
+   <link href="localhost:4000/tiy-essay/2015/05/19/flux-capacitor-at-max-review.html"/>
+   <updated>2015-05-19T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/05/19/flux-capacitor-at-max-review</id>
+   <content type="html">&lt;p&gt;Week 3,&lt;/p&gt;
+
+&lt;p&gt;Looking back, when I started the Iron Yard on May the fourth ( I did hope the fourth
+  was with me!) excited, thinking this will be tough but not as bad as it was implied&amp;hellip;
+  Week one went by fast enough and seemed to meet my idea of how tough it would be - Legend of Zelda: OOT.
+  Week two came, difficulty went up too dark souls but we got through it. JavaScript was
+  my biggest weekness, yet I was improving the command line use. I was looking forward to
+  the Front End Conference in St. Pete the following week.&lt;/p&gt;
+
+&lt;p&gt;Week three came difficulty level increases to Ghost&amp;rsquo;s &amp;lsquo;n Goblins. The css was fun, but the
+  work was piling on, I felt it piling on and realized that as my usual I was totally cocky
+  and over confident - not as helpful in code as it is in hospitality. But I let it fall
+  so I could soak up the info from this conference we were going to!&lt;/p&gt;
+
+&lt;p&gt;The conference was awesome did some networking, met Val Head, and some other great coders
+  and developers!( it was unfortunate that I did not get an opportunity to meet James White w/ signalnoise - potentially the coolest canadian! - also goes w/ the stereotype of Canadians being a little behind in times&amp;hellip;). After the weekend I felt like I was behind, and worked to get caught up to hopefully bewhere I am now, I guess we shall see&amp;hellip;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Code Monkey week-2-Bananas</title>
+   <link href="localhost:4000/tiy-essay/2015/05/15/CodeMonekeyWK2-Bananas.html"/>
+   <updated>2015-05-15T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/05/15/CodeMonekeyWK2-Bananas</id>
+   <content type="html">&lt;h1&gt;Peeling the Banana!&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What did we learn in Week 2 at The Iron Yard Orlando?
+
+&lt;ul&gt;
+&lt;li&gt;JavaScript deconstructing a website&lt;/li&gt;
+&lt;li&gt;How to deny Wallstreet (or what ever online NewsPaper he was on) their ad
+revenue!&lt;/li&gt;
+&lt;li&gt;We worked more on User Stories&lt;/li&gt;
+&lt;li&gt;Nested accordions only sound and look good when professional musicians play
+them.&lt;/li&gt;
+&lt;li&gt;That roughly 7 of us are going to the FEE Conference in St. Pete!&lt;/li&gt;
+&lt;li&gt;Actually working face to face w/ your team is invaluable.&lt;/li&gt;
+&lt;li&gt;I still break everything.&lt;/li&gt;
+&lt;li&gt;I wish I knew this past week that on week 3 we would learn the easy way
+to fix a merge conflict!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;End of Outline!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;ROUGH&lt;/h1&gt;
+
+&lt;p&gt;In week 2 we began to peel back the code like a banana, start deconsrtucting web pages and rebuilding- I guess its not really like a banana. One of the best/most entertaining moments in the education was watching all the ads of wallstreet journal(or whateever online newspaper) disappear, denying ad revenue. We created and worked more on user stories which were fun, and I feell I have down pretty well. Howevere that leads us to the following message:&lt;/p&gt;
+
+&lt;p&gt;Only professionals should mess with accordions. Not sure what I did I broke something (see later in this journal). We have been able to open and close the Nested accordions, have arrows, etc. There was a lot of JavaScript this week. It was great albeit fairly challenging for me, and I know I am not feeling fully prepared in the world of JavaScripts - Yet.&lt;/p&gt;
+
+&lt;p&gt;Front End Design conference in St. Pete &amp;ndash; Woo! So it turns out about 70% of the class is going to St. Pete for this conference (Road Trip and I don&amp;rsquo;t have to drive even more awesome - THANK YOU @jessyriordan). We are all looking forward to this conference to learn, network, and the experience.  Further we will still be able to work face to face. A invaluable tool that is beyond helpful for me.&lt;/p&gt;
+
+&lt;p&gt;So like I said above, I break a lot of things, and try to fix them. Week one, was more of a lets get into this and break everything we can and I learn to fix it&amp;hellip;I have fixed some of the things, I think I am ahead in broken commits. But I have finally learned to merge (Yes!).&lt;/p&gt;
+
+&lt;h1&gt;Final:&lt;/h1&gt;
+
+&lt;p&gt;In week 2 we began to peel back the code like a banana, start deconstruction of web pages and rebuilding- I guess its not really like a banana. One of the best/most entertaining moments in the education was watching all the ads of Wall Street journal(or whatever online newspaper) disappear, denying ad revenue. We created and worked more on user stories which were fun, and I feel I have down pretty well. However that leads us to the following message;&lt;/p&gt;
+
+&lt;p&gt;Only professionals should mess with accordions. Not sure what I did I broke something (see later in this journal). We have been able to open and close the Nested accordions, have arrows, etc. There was a lot of JavaScript this week. It was great albeit fairly challenging for me, and I know I am not feeling fully prepared in the world of JavaScripts - Yet.&lt;/p&gt;
+
+&lt;p&gt;Front End Design conference in St. Pete &amp;ndash; Woo! So it turns out about 70% of the class is going to St. Pete for this conference (Road Trip and I don&amp;rsquo;t have to drive even more awesome - THANK YOU @jessyriordan). We are all looking forward to this conference to learn, network, and the experience.  Further we will still be able to work face to face. A invaluable tool that is beyond helpful for me.&lt;/p&gt;
+
+&lt;p&gt;So like I said above, I break a lot of things, and try to fix them. Week one, was more of a lets get into this and break everything we can and I learn to fix it&amp;hellip;I have fixed some of the things, I think I am ahead in broken commits. But I have finally learned to merge (Yes!).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Code Monkey week-1</title>
+   <link href="localhost:4000/tiy-essay/2015/05/08/CodeMonkeyWK1.html"/>
+   <updated>2015-05-08T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/05/08/CodeMonkeyWK1</id>
+   <content type="html">&lt;h1&gt;&lt;a href=&quot;&quot;&gt;Wk 1 Rough&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Week one started off with tons of excitement, and some extreme nervousness.
+I was nervous about my level of coding experience compared to the other
+students that would be there, yet I was pleasantly surprised to see I was at the
+same level roughly. The day began maybe even more excited to begin training for
+my new career!&lt;/p&gt;
+
+&lt;p&gt;We were told how tough the course would be, told we would be like drowning kitt-
+ens. After the first day it was kind of like you know we have got this, we are
+going to rock these 12 weeks - the end of the week began to prove us wrong.&lt;/p&gt;
+
+&lt;p&gt;We started off with terminal and moved to JavaScript and attempting to create a
+String Calculator and todo list web app. We stared the todo.js with planning,
+which involved users stories. An example of which is &amp;ldquo;A Smurf can Smurf so that
+Smurfs can Smurf&amp;rdquo; (or &amp;ldquo;A Someone can do this so that somone can benefit&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;After the user stories and plan what the something can do we start the small
+processes and do &amp;ldquo;YAGNI&amp;rdquo; - You Aint Gunna Need It - pulling ideas from the task
+that won&amp;rsquo;t necessarily affect its purpose (the pieces that are more for show/or
+show off what you can do). Still working on Extreme Programming.&lt;/p&gt;
+
+&lt;h1&gt;Final Draft (Rev.1)&lt;/h1&gt;
+
+&lt;p&gt;Week one started off with tons of excitement, and some extreme nervousness.
+I was nervous about my level of coding experience compared to the other
+students that would be there, yet I was pleasantly surprised to see I was at the
+same level roughly. It was even more exciting to begin training for a new Career.&lt;/p&gt;
+
+&lt;p&gt;We were told how tough the course would be, told we would be like drowning kitt-
+ens. After the first day it was kind of like you know we have got this, we are
+going to rock these 12 weeks - the end of the week began to prove us wrong. Coff-
+ee has become a way of life, a necessity to function.&lt;/p&gt;
+
+&lt;p&gt;We started off with terminal and moved to JavaScript and attempting to create a
+String Calculator and todo list web app. We stared the todo.js with planning,
+which involved users stories. An example of which is &amp;ldquo;A Smurf can Smurf so that
+Smurfs can Smurf&amp;rdquo; (or &amp;ldquo;A Someone can do this so that somone can benefit&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;After the user stories we would plan what the something can do. Starting the small
+processes and do &amp;ldquo;YAGNI&amp;rdquo; - You Ain&amp;rsquo;t Gunna Need It - pulling ideas from the task
+that won&amp;rsquo;t necessarily affect its purpose (the pieces that are more for show/or
+show off what you can do). Still working on Extreme Programming. Throughout the
+process we use test-driven programming - testing all the small pieces of our
+programs as we go forward to ensure they work! We ended the week with some
+JavaScript projects due on Monday!.&lt;/p&gt;
+
+&lt;h1&gt;Final Draft (Rev.2 Official)&lt;/h1&gt;
+
+&lt;p&gt;Week one started off with tons of excitement, and some extreme nervousness.
+I was nervous about my level of coding experience compared to the other
+students that would be there, yet I was pleasantly surprised to see I was at the
+same level roughly. It was even more exciting to begin training for a new Career.&lt;/p&gt;
+
+&lt;p&gt;We were told how tough the course would be, told we would be like drowning kitt-
+ens. After the first day it was kind of like you know we have got this, we are
+going to rock these 12 weeks - the end of the week began to prove us wrong. Coff-
+ee has become a way of life, a necessity to function.&lt;/p&gt;
+
+&lt;p&gt;We started off with terminal and moved to JavaScript and attempting to create a
+String Calculator and todo list web app. We stared the todo.js with planning,
+which involved users stories. An example of which is &amp;ldquo;A Smurf can Smurf so that
+Smurfs can Smurf&amp;rdquo; (or &amp;ldquo;A Someone can do this so that someone can benefit&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;After the user stories we would plan what the something can do. Starting the small
+processes and do &amp;ldquo;YAGNI&amp;rdquo; - You Ain&amp;rsquo;t Gunna Need It - pulling ideas from the task
+that won&amp;rsquo;t necessarily affect its purpose (the pieces that are more for show/or
+show off what you can do). Still working on Extreme Programming. Throughout the
+process we use test-driven programming - testing all the small pieces of our
+programs as we go forward to ensure they work! We ended the week with some
+JavaScript projects due on Monday and visit from the developer(s) and CEO
+of Echo. That was exciting to see the how an agency worked, to learn a little
+bit of what it will be like when we graduate in a few months!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tutorials are for Xbox people</title>
+   <link href="localhost:4000/tiy-essay/2015/05/07/Tutorials-are-for-Xbox-people.html"/>
+   <updated>2015-05-07T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/05/07/Tutorials-are-for-Xbox-people</id>
+   <content type="html">&lt;h1&gt;The TUTORIAL&lt;/h1&gt;
+
+&lt;h6&gt;(If you play XBOX or COD..this TUTORIAL may be too difficult, its ok, ask for help).&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is a script?&lt;/li&gt;
+&lt;li&gt; A script is a program or sequence of instructions that is interpreted or carried out by another program.&lt;/li&gt;
+&lt;li&gt;we are going to add a browser-sync script for this TUTORIAL (again XBOX/COD people - it may be difficult to keep up, but you can do it.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;First create a &lt;code&gt;package.json&lt;/code&gt;..
+
+&lt;ol&gt;
+&lt;li&gt;on the Command Line type &lt;code&gt;npm init&lt;/code&gt;:&lt;/li&gt;
+&lt;li&gt;Read the instructions - you want to read the docs, add them, if not, delete them.&lt;/li&gt;
+&lt;li&gt;For which version type 0.0.0 (only it is for your first un published copy)&lt;/li&gt;
+&lt;li&gt;You created you &lt;code&gt;package.json&lt;/code&gt; way to go!&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;No open your &lt;code&gt;package.json&lt;/code&gt; in a word editor such as Atom&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;
+{
+&amp;quot;name&amp;quot;: &amp;quot;octocat.github.io&amp;quot;,
+&amp;quot;version&amp;quot;: &amp;quot;0.0.0&amp;quot;,
+&amp;quot;description&amp;quot;: &amp;quot;---&amp;quot;,
+&amp;quot;main&amp;quot;: &amp;quot;index.js&amp;quot;,
+&amp;quot;scripts&amp;quot;: {
+&amp;quot;tests&amp;quot;: &amp;quot;-mocha&amp;quot;
+},
+&amp;quot;repository&amp;quot;: {
+&amp;quot;type&amp;quot;: &amp;quot;git&amp;quot;,
+&amp;quot;url&amp;quot;: &amp;quot;https://github.com/octocat.github.io.git&amp;quot;
+},
+&amp;quot;author&amp;quot;: &amp;quot;Octocat (The Octocat)&amp;quot;,
+&amp;quot;license&amp;quot;: &amp;quot;CCO&amp;quot;,
+&amp;quot;bugs&amp;quot;: {
+&amp;quot;url&amp;quot;: &amp;quot;https://github.com/octocat.github.io/issues&amp;quot;
+},
+&amp;quot;homepage&amp;quot;: &amp;quot;https://github.com/octocat.github.io&amp;quot;
+}
+&lt;/code&gt;
+2. Go to the `&amp;ldquo;scripts&amp;rdquo;: {&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;}&lt;code&gt;section.
+3. type&lt;/code&gt;&amp;ldquo;start&amp;rdquo;: &amp;ldquo;&amp;quot;browser-sync start &amp;ndash;server &amp;ndash;files=&amp;lsquo;js/&lt;em&gt;.js,test/index.html,test/spec/&lt;/em&gt;&lt;em&gt;/&lt;/em&gt;.js&amp;rsquo; &amp;ndash;startPath src/index.html&amp;rdquo;&lt;code&gt;This will sync all the files for the local server you have created, with a&lt;/code&gt;startPath&lt;code&gt;so that
+it knows where the path to open the files are.
+4. It should look like this;
+&lt;/code&gt;&lt;code&gt;
+&lt;/code&gt;&lt;code&gt;
+&amp;quot;scripts&amp;quot;: {
+&amp;quot;tests&amp;quot;: &amp;quot;-mocha&amp;quot;,
+&amp;quot;start&amp;quot;: &amp;quot;&amp;quot;browser-sync start --server --files=&amp;#39;js/*.js,test/index.html,test/spec/**/*.js&amp;#39; --startPath src/index.html&amp;quot;
+},
+&lt;/code&gt;`&lt;code&gt;
+1. You may have noticed a&lt;/code&gt;,&lt;code&gt;after&lt;/code&gt;&amp;ldquo;tests&amp;rdquo;: &amp;ldquo;-mocha&amp;rdquo;&lt;code&gt;to separate functions.
+5. On the command line all you will have to do now is type&lt;/code&gt;npm start` and VOILA!&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can create scripts for almost anything you run in Command Line (such as &lt;code&gt;node-sass&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>T.A.R.D.I.S</title>
+   <link href="localhost:4000/tiy-essay/2015/05/07/TARDIS.html"/>
+   <updated>2015-05-07T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/05/07/TARDIS</id>
+   <content type="html">&lt;h1&gt;Time and Reflective Dimension In Space = T.A.R.D.I.S.&lt;/h1&gt;
+
+&lt;p&gt;In the past five weeks at The Iron Yard, we have worked hard, busted our brains, studied when we wanted
+to sleep, gave up our jobs, time with family, and what do we have to show&amp;hellip; Before and even during our
+&amp;ldquo;break&amp;rdquo; if you asked us do we know anything, we probably would have answered..no. But the reality is,
+we learned A LOT - we built a blog template - none ready to ship (unless you&amp;rsquo;re @gatorpazz who should also read this and give it a :+1: ) But we made them!
+We practiced our skill and started from scratch, it was great review and great learning opportunity. My only
+regret is that I didnt spend more time on the JavaScript, but I am confident in my ability, and that of my
+cohorts to learn it, and become an awesome Junior Developer&amp;hellip;or Their Boss&amp;hellip;&lt;/p&gt;
+
+&lt;!-- ##Outline:
+  * Week in review
+    * Chessboard
+    * Jquery
+    * NPM INIT &amp; BOWER
+    * Class breaking point?
+    * DAMN YOU JavaScript! --&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Growth vs Fixed Mindset</title>
+   <link href="localhost:4000/tiy-essay/2015/05/04/growth-vs-fixed-mindset.html"/>
+   <updated>2015-05-04T00:00:00-04:00</updated>
+   <id>localhost:4000/tiy-essay/2015/05/04/growth-vs-fixed-mindset</id>
+   <content type="html">&lt;h1&gt;Nature Vs. Nurture: Challening Growth or Fixated Content&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;h5&gt;Intro&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt; &amp;ldquo;Not Yet&amp;rdquo; that was the grade given to students who did not get an &amp;ldquo;A&amp;rdquo; on the project. &amp;ldquo;Not Yet&amp;rdquo;? What does that imply, how does that help students? Is that even quantifiable? Yet that phrase has helped students improve their grades, their confidence, and their ability to grow into contributing members to society. Mabe we adults could even change mindsets to improve lives.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h5&gt;Body&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What is Growth vs. Fixed mindset?
+
+&lt;ol&gt;
+&lt;li&gt;Growth is giving a individual opportunity to improve by not boxing them into a way of thinking. An example would be you tried really hard and it shows, keep it up! or even &amp;ldquo;Not Yet&amp;rdquo; to a student who isn&amp;rsquo;t fairing to well.&lt;/li&gt;
+&lt;li&gt;Fixed is giving a individual a box. Telling them this is what they are good at, and what they need to live up too.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Growth Mindset Improves Lives
+
+&lt;ol&gt;
+&lt;li&gt;Scientist ran brain tests on students. When given an error students who were taught a growth mindset would study the error learn from it. On the other end of the spectrum were students taught in a fixed mindset. Those student would avoid the problem.&lt;/li&gt;
+&lt;li&gt;Brains built stronger neuron links improving intelligence and brain function. No longer are people restricted by what some test or person says their IQ is.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Not too late
+
+&lt;ol&gt;
+&lt;li&gt;Are we raising our childeren to get &amp;ldquo;A&amp;rsquo;s&amp;rdquo;, win at sports? We can begin - instead - saying you did well, you really tried and hey great game, did you have fun? Ask questions engage their minds.&lt;/li&gt;
+&lt;li&gt;Quit rewarding everything, and compliment effort. Even as leaders and managers we could challenge our crew and engage them for better quality work, improved moral ( Free tip for you current or future business leader - that means more profit and improved margin!).&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Even as adults we can learn. Take a chance. Make a career change. Challenge ourselves, try our best, and practice we can get there!&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1&gt;Rough draft 1:&lt;/h1&gt;
+
+&lt;p&gt;&amp;ldquo;Not Yet&amp;rdquo; that was the grade given to students who did not get an &amp;ldquo;A&amp;rdquo; on the project. &amp;ldquo;Not Yet&amp;rdquo;? What does that imply, how does that help students? Is that even quantifiable? Yet that phrase has helped students improve their grades, their confidence, and their ability to grow into contributing members to society. Mabe we adults could even change mindsets to improve ours -and others- lives.&lt;/p&gt;
+
+&lt;p&gt;Before we can go further, we must answer the question - What is growth mindset vs fixed mindset? Simply put a growth mindset encourages individuals to grow, accept challenges and learn from mistakes. While fixed mindset places an individual in a box - and they can only grow inside that box. What encourages these mindsets is our langauge. Saying how brilliant this individual is for achieving all A&amp;rsquo;s or reaching whatever goal, creates bar that individual does not want to drop below, so they avoid the hard stuff so they gaurantee an &amp;ldquo;A&amp;rdquo;. Whereas telling some wow, you really worked hard and it shows encourages to keep trying, because that is what their peer(s) notice.&lt;/p&gt;
+
+&lt;p&gt;Now that we know the difference how does it help? When given an error those with a growth mindset engaged it more deeply, tried to figure out the answer, and learn from their failure. Fixed mindsets would just shut down. Scientists did brain scans on both groups to see if they reacted differently. The scans showed tons of activity in the growth and very little in fixed. Furthermore they are able to see new neuron connections being built and becoming stronger in growth mindsets - IQ&amp;rsquo;s are no longer a statement of what a individuals top intelligence.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s apply it to now. Even as adults we are constantly living in a box. But we are learning to grow and take steps. On May 4th, 2015 a group of adults -with same goal in mind, to become top dog developers- joined together in a cohort to learn new languages and how to apply them! No individual entering has a fixed mindset. They are looking for a challenge, pushing themselves to learn together and on their own. The mindsets will not focus on whether they passed or failed, but what they did wrong and how to improve.&lt;/p&gt;
+
+&lt;p&gt;Even as a adults we can learn. and to quote Dr. James A. Moore &amp;ldquo;There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!&amp;rdquo;&lt;/p&gt;
+
+&lt;h1&gt;FINAL&lt;/h1&gt;
+
+&lt;p&gt;&amp;ldquo;Not Yet&amp;rdquo; that was the grade given to students who did not get an &amp;ldquo;A&amp;rdquo; on the project. &amp;ldquo;Not Yet&amp;rdquo;? What does that imply, how does that help students? Is that even quantifiable? Yet that phrase has helped students improve their grades, their confidence, and their ability to grow into contributing members to society. Mabe we adults could even change mindsets to improve ours -and others- lives.&lt;/p&gt;
+
+&lt;p&gt;Before we can go further, we must answer the question - What is growth mindset vs fixed mindset? According to Carol Dweck social psychology Professor at Stanford &amp;ldquo;A fixed mindset students believe their basic abilities, their intelligence, their talents, are just fixed traits. They have a certain amount and that&amp;rsquo;s that, and then their goal becomes to look smart all the time and never look dumb. In a growth mindset students understand that their talents and abilities can be developed through effort, good teaching and persistence&amp;rdquo;. Simply put, individuals with a growth mindset keep trying, regardless of the set backs and a fixed mindset is like being trapped in box with no room to grow.&lt;/p&gt;
+
+&lt;p&gt;Knowing what they mean, how do we apply that knowledge? When given an error those with a growth mindset engaged it more deeply, tried to figure out the answer, and learn from their failure. Fixed mindsets would just shut down. Scientists did brain scans on both groups to see if they reacted differently. The scans showed tons of activity in the growth and very little in fixed. Furthermore they are able to see new neuron connections being built and becoming stronger in growth mindsets - IQ&amp;rsquo;s are no longer a statement of what a individuals top intelligence.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s apply it to now. Even as adults we are constantly living in a box. But we are learning to grow and take steps. On May 4th, 2015 a group of adults -with same goal in mind, to become great developers- joined together in a cohort to learn new languages and how to apply them! No individual entering has a fixed mindset. They are looking for a challenge, pushing themselves to learn together and on their own. The mindsets will not focus on whether they passed or failed, but what they did wrong and how to improve.&lt;/p&gt;
+
+&lt;p&gt;Even as a adults we can learn. and to quote Dr. James A. Moore &amp;ldquo;There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!&amp;rdquo;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Welcome to Jekyll!</title>
+   <link href="localhost:4000/jekyll/2014/03/03/welcome-to-jekyll.html"/>
+   <updated>2014-03-03T00:00:00-05:00</updated>
+   <id>localhost:4000/jekyll/2014/03/03/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;You&amp;rsquo;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build
+(or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes! To add new posts, simply add
+a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention:
+YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We&amp;rsquo;ve also added a lot of different settings for &lt;a href=&quot;https://github.com/vmg/redcarpet&quot;&gt;Redcarpet&lt;/a&gt;,
+including being able to &lt;sup&gt;superscript,&lt;/sup&gt; &lt;u&gt;underline&lt;/u&gt;, &lt;mark&gt;highlight&lt;/mark&gt;,
+&lt;del&gt;strikethrough&lt;/del&gt;, and footnotes.&lt;sup id=&quot;fnref1&quot;&gt;&lt;a href=&quot;#fn1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; It even automatically makes links into
+URLs: &lt;a href=&quot;http://www.jekyllrb.com&quot;&gt;www.jekyllrb.com&lt;/a&gt; and you can put multiple underscores in words without
+them leaning all over the place: this_word_has_underscores. It&amp;rsquo;ll also make your
+quotes look nice, like this: &amp;ldquo;hoho&amp;rdquo;, your dashes and hypens will be dashing too:
+&amp;mdash;/&amp;ndash;.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;def print_hi(name)
+  puts &amp;quot;Hi, #{name}&amp;quot;
+end
+print_hi(&amp;#39;Tom&amp;#39;)
+#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of
+Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&amp;rsquo;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+
+&lt;li id=&quot;fn1&quot;&gt;
+&lt;p&gt;Who are quite handy&amp;nbsp;&lt;a href=&quot;#fnref1&quot; rev=&quot;footnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+
+</feed>

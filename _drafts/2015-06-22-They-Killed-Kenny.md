@@ -1,4 +1,0 @@
-## WEEK 7
-(OMG - THEY KILLED KENNY....YOU BAS*****!)
-
-In week 7, we worked together on teams (again, this time in larger groups) to complete the `ETSY API`. It was a great experience, and I had a powerhouse of a team. I did personally find it a little difficult to lead - and I feel it mainly had to with my confidence in the industry at the moment. Put me in _any_ restaurant in the USA (and possibly the world - though I am not as familiar with international law) and I could run it no problem - In fact I have! I have alway loved leading teams to success and every time it was my team who did it. This time it was weird. On one end I wanted to lead, but I felt like a newbie (which is kind of cool - new career challenges!). Although speaking on business leadership...Doesn't anyone else in the cohort think about how to monetize things? :)
