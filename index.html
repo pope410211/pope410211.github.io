@@ -1,124 +1,40 @@
----
-title: It's on Like Donkey Kong
----
 <!doctype html>
 <html class="no-js" lang="">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>{{page.title}}</title>
+        <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="ntp-avatar" src="img/NickAvatar.png">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
-        <!-- bower:css -->
-        <link rel="stylesheet" href="../bower_components/normalize.css/normalize.css" />
-        <!-- endbower -->
 
+        <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body>
-      <main class="container">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
 
-        <!-- <section class="grid">
-        <div class="unit-span-1">1</div>
-        <div class="unit-span-1">2</div>
-        <div class="unit-span-1">3</div>
-        <div class="unit-span-1">4</div>
-        <div class="unit-span-1">5</div>
-        <div class="unit-span-1">6</div>
-        <div class="unit-span-1">7</div>
-        <div class="unit-span-1">8</div>
-      </section>
-      <section class="grid">
-        <div class="unit-span-2">col-2</div>
-        <div class="unit-span-4">col-4</div>
-        <div class="unit-span-2">col-2</div>
-      </section>
-      <section class="grid">
-        <div class="unit-span-4 offset-2">Offset-4</div>
-      </section> -->
+        <!-- Add your site or application content here -->
+        <p>Hello world! This is HTML5 Boilerplate.</p>
 
-
-
-
-
-
-      <header>
-        <!-- <nav class="navbar-fadeIn">
-          <div cass="fadeIn">
-            <ul class="yesdisplay" id="staticimg">
-            <li class="imgL"><img src="img/Logo1.png" class="imgnav"></img></li>
-          </ul>
-            <ul class="yesdisplay" id="static">
-              <li class="sizE1"><a href="https://www.facebook.com/nicholas.pope.524"><img src="img/facebook29.png"></img></a></li>
-              <li class="sizE1"><a href="https://twitter.com/pope410211"><img src="img/twitter1.png"></img></a></li>
-              <li class="sizE1"><a href="https://plus.google.com/113920606278670725370/about/p/pub"><img src="img/google-plus.png"></img></a></li>
-              <li class="sizE1"><a href="https://www.linkedin.com/in/pope410211"><img src="img/linkedin12.png"></img></a></li>
-            </ul>
-          </div>
-        </nav>  -->
-
-        <nav class="navbar-navmain color1" >
-          <section class="grid logo1">
-          <div>
-            <a class="imglogo1resp"><img src="img/Logo1.png"></img></a>
-          </div>
-        </section>
-        </header>
-        <section class="grid socialiconsH color1">
-          <div class="unit-span-2">
-            <ul class="si1" id="iconR">
-          <li class="sizE"><a href="https://www.facebook.com/nicholas.pope.524"><img src="img/facebook29.png"></img></a></li>
-          <li class="sizE"><a href="https://twitter.com/pope410211"><img src="img/twitter1.png"></img></a></li>
-          </ul>
-        </div>
-          <div class="unit-span-4"><h3 class="name">Nick Pope</h3></div>
-          <div class="unit-span-2">
-            <ul class="si1" id="iconL">
-          <li class="sizE"><a href="https://plus.google.com/113920606278670725370/about/p/pub"><img src="img/google-plus.png"></img></a></li>
-          <li class="sizE"><a href="https://www.linkedin.com/in/pope410211"><img src="img/linkedin12.png"></img></a></li>
-        </ul>
-      </div>
-        </nav>
-    </section>
-
-
-
-          <section class="grid">
-          <div class="unit-span-5 bio">
-            <ul class="about">
-            <li><img src="img/NickAvatar.png"></img></li>
-            <li><p>Hi! My name is Nick, I am a former hospitality professional, with more than a decade
-            of experience. I recently followed my passion for technology by enrolling into <strong>The Iron Yard-Orlando</strong>
-            . I'm looking forward to gaining new experiences in this amazing field!</p></li>
-            <li></li>
-          </ul>
-        </div>
-        <section>
-          <section class="grid">
-        <div class="codemonkey unit-span-5">
-          <ul>
-              {% for post in site.posts %}
-          <li><a href="{{post.url}}">{{post.title}}</a></li>
-            {% endfor %}
-            <li></li>
-          </ul>
-        </div>
-</section>
-
-      </main>
-
-
-        <!-- bower:js -->
-        <script src="../bower_components/jQuery/dist/jquery.js"></script>
-        <!-- endbower -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
 
-        <div>
-          <a href="#" class="scrollup">&#8963;</a>
-        </div>
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
     </body>
 </html>
