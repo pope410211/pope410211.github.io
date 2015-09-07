@@ -3,11 +3,10 @@
 ---
 @charset "utf-8";
 
-//source sans pro & railway
 
 
 
-$mobile:          15em;
+$mobile:          30em;
 
 
 
@@ -17,7 +16,7 @@ $mobile:          15em;
 //
 // // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        // "base",
+        "base",
         // "layout",
         "mobile"
 ;

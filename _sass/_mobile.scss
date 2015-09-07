@@ -1,0 +1,55 @@
+.site-header {
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;;
+    background-color: black;
+
+
+.btn {
+    display: none;
+    cursor: pointer;
+  }
+
+
+li {
+    float: left;
+
+
+ a{
+    display: block;
+    padding: 15px 0 15px 20px;
+    text-decoration: none;
+    color: grey;
+
+&:hover {
+    color: #fff;
+}
+
+    }
+  }
+}
+@media (max-width: 30em) {
+    ul{
+
+    li {
+        float: none;
+    }
+    .btn {
+        display: block;
+    }
+    .menu li a {
+        padding: 0px 20px 10px 20px;
+    }
+     .menu {
+        display: none;
+    }
+   li:hover .menu {
+        display: block;
+    }
+  }
+}
+
+
+}//end site-header
