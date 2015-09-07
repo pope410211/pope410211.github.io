@@ -138,7 +138,7 @@ font-size: .8em;
   .social-icons {
   display: table;
   margin: 0 auto;
-  padding: 0 2.5em 0 0em;
+  padding: 0 3em 0 0em;
 
 
     .list-icons {
@@ -154,6 +154,11 @@ font-size: .8em;
           padding: 1em 0em .5em .5em;
           text-decoration: none;
           color: #3B3C3E;
+
+          img{
+            width: 3em;
+            height: 3em;
+          }
         }
       }
     }
