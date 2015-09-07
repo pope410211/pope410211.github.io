@@ -5,7 +5,7 @@
   "authors": [
     "Nick Pope <pope410211@gmail.com>"
   ],
-  "description": "Portfolio",
+  "description": "Nicholas Pope - Portfolio SIte",
   "main": "index.html",
   "license": "CCO",
   "ignore": [
@@ -14,5 +14,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "jQuery#~2.1.4"
+  }
 }
