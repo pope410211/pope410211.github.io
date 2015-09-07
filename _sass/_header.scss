@@ -1,27 +1,51 @@
 .site-header {
+font-family:"Raleway:800";
+color: #3B3C3E;
+
+  .logo {
+    float: left;
+    display: inline-block;
+    #name {
+      margin: 1.35em;
+    }
+    img{
+      width: 5em;
+      height: 5em;
+    }
+
+  }//end logo
+
+
+
 ul {
     margin: 0;
     padding: 0;
     list-style: none;
     overflow: hidden;;
     background-color: black;
+    float: right;
+
+
+
 
 
 .btn {
     display: none;
     cursor: pointer;
+
   }
 
 
 li {
-    float: left;
+  float: left;
 
 
- a{
+ a {
     display: block;
-    padding: 15px 0 15px 20px;
+    padding: 1em 1em 0em 2em;
     text-decoration: none;
-    color: grey;
+    color: #3B3C3E;
+
 
 &:hover {
     color: #fff;
@@ -31,10 +55,28 @@ li {
   }
 }
 @media (max-width: 30em) {
+
+  .logo {
+
+    margin: 1em 1em 1em 7em;
+    clear: both;
+
+    img{
+      width: 6em;
+      height: 6em;
+    }
+  }
+
+
     ul{
+      // margin: 0 auto;
+      clear: both;
+      float: left;
+
 
     li {
-        float: none;
+      float: none;
+
     }
     .btn {
         display: block;
@@ -49,7 +91,7 @@ li {
         display: block;
     }
   }
-}
+}//end media query
 
 
 }//end site-header
