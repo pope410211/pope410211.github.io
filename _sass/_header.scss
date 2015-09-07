@@ -1,21 +1,38 @@
 .site-header {
-font-family:"Raleway:800";
+// font-family:"Raleway:800";
 color: #3B3C3E;
 
   .logo {
     float: left;
     display: inline-block;
+clear: both;
+
     #name {
-      margin: 1.35em;
-    }
-    img{
+      margin-left: .5em;
+      p {
+      font-weight: bolder;
+      font-size: 1.8em;
+      }
+  }
+    img {
       width: 5em;
       height: 5em;
     }
 
+
+
   }//end logo
 
+  #tagline {
+  clear:both;
+  position:absolute;
 
+    p {
+    margin: 5em 9em;
+    
+
+  }
+}
 
 ul {
     margin: 0;
@@ -25,6 +42,9 @@ ul {
     background-color: black;
     float: right;
 
+.menu{
+  margin: 2em;
+}
 
 
 
