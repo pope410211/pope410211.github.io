@@ -29,7 +29,7 @@ clear: both;
 
     p {
     margin: 5em 9em;
-    
+
 
   }
 }
@@ -81,12 +81,23 @@ li {
     margin: 1em 1em 1em 7em;
     clear: both;
 
+    #name {
+      margin-left: .5em;
+      p {
+      font-weight: bolder;
+      font-size: 1em;
+      }
+  }
+
     img{
-      width: 6em;
-      height: 6em;
+      width: 5em;
+      height: 5em;
     }
   }
 
+  #tagline {
+  display: none;
+  }
 
     ul{
       // margin: 0 auto;
