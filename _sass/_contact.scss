@@ -1,0 +1,73 @@
+.contact-page {
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em;
+
+
+.contact-me {
+max-width: 100%;
+#contact-divs {
+
+  list-style: none;
+
+
+.divs-list {
+  display: inline-block;
+
+
+  }
+
+
+} //end contact-divs
+
+
+
+#personal {
+
+  color: #3A3A3C;
+  font-size: 1.2em;
+  border-right: .3em solid #3B3C3E;
+
+
+
+  ul{
+    list-style: none;
+    text-align: right;
+    padding-right: 3em;
+  }
+
+
+}//end personal
+
+#social-link{
+
+
+
+.list-icons {
+
+display: inline-block;
+list-style: none;
+
+    a {
+      padding: 1em 0em .5em .5em;
+
+      img{
+        width: 3em;
+        height: 3em;
+
+          }
+        }
+      }// end social-link
+    }//end contact-divs
+  } // end contact-me
+
+
+  @media screen and (max-width: $mobile) {
+    #personal {
+      color: red;
+    }
+
+
+
+  }
+}//end contact-page
