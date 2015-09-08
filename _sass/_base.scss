@@ -9,7 +9,11 @@ min-height: 100vh;
   margin: 2em 4.3em;
 }
 
-
+@media (max-width: $mobile) {
+  #splash {
+    content: url("http://placehold.it/300x100")
+  }
+}
 
 .content {
   clear: both;
@@ -87,7 +91,7 @@ img {
               color: $grey;
 
               &:hover{
-              color: #fff;  
+              color: #fff;
               }
             }
 
