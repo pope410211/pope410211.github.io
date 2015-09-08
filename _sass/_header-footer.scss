@@ -64,7 +64,7 @@ li {
     display: block;
     padding: 1em 1em 0em 2em;
     text-decoration: none;
-    color: #3B3C3E;
+    color: $grey;
 
 
 &:hover {
@@ -134,7 +134,7 @@ li {
 
 //Start site footer-col
  .site-footer {
-color: #3B3C3E;
+color: $grey;
 font-size: .8em;
 
   .social-icons {
@@ -155,7 +155,7 @@ font-size: .8em;
         a {
           padding: 1em 0em .5em .5em;
           text-decoration: none;
-          color: #3B3C3E;
+          color: $grey;
 
 
 
