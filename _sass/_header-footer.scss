@@ -76,7 +76,7 @@ li {
 } // end desktop view
 
 // mobile view
-@media (max-width: 30em) {
+@media (max-width: $mobile) {
 
   .logo {
 
