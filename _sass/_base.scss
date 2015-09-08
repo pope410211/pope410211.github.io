@@ -2,6 +2,7 @@ body {
 background-color: black;
 color: white;
 font-family: "Source Sans Pro";
+min-height: 100vh;
 
 #splash {
   content: url("http://lorempixel.com/output/nightlife-q-g-1200-300-1.jpg");
@@ -9,7 +10,32 @@ font-family: "Source Sans Pro";
 }
 
 .content {
+  clear: both;
   display: block;
+
+
+.about {
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em;
+
+.img-about {
+  text-align: center;
+img {
+  height: 10em;
+  width: 10em;
+  box-sizing: border-box;
+  border: .15em solid #3B3C3E;
+  border-radius: 10em;
+    }
 }
+
+.about-info {
+  margin: 0 auto;
+  max-width: 80%;
+}
+
+  }// end about page
+} // end content
 
 }//end body

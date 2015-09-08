@@ -155,9 +155,18 @@ font-size: .8em;
           text-decoration: none;
           color: #3B3C3E;
 
+
+
+
           img{
             width: 3em;
             height: 3em;
+
+            &:hover {
+                height: 4em;
+                width: 4em;
+
+            }
           }
         }
       }
