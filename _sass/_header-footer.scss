@@ -122,6 +122,8 @@ li {
     }
    li:hover .menu {
         display: block;
+        z-index: 100;
+        position: absolute;
     }
   }
 }//end media query
@@ -165,7 +167,6 @@ font-size: .8em;
             &:hover {
                 height: 4em;
                 width: 4em;
-
             }
           }
         }
