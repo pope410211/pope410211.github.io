@@ -69,3 +69,4 @@ site
 aws-credentials.json
 rsync-credentials.json
 bower_components
+_site/bower_components
