@@ -59,7 +59,7 @@ test/
 *.sublime-workspace
 *.sublime-projectcompletions
 
-app/_bower_components
+
 
 # Output folders
 serve
@@ -68,3 +68,4 @@ site
 # hide the AWS and Rsync credentials file
 aws-credentials.json
 rsync-credentials.json
+bower_components

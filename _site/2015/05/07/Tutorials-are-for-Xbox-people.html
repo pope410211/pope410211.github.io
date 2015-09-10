@@ -1,0 +1,52 @@
+<h1 id="the-tutorial">The TUTORIAL</h1>
+<p>###### (If you play XBOX or COD..this TUTORIAL may be too difficult, its ok, ask for help).</p>
+
+<ul>
+  <li>What is a script?</li>
+  <li>A script is a program or sequence of instructions that is interpreted or carried out by another program.</li>
+  <li>we are going to add a browser-sync script for this TUTORIAL (again XBOX/COD people - it may be difficult to keep up, but you can do it.)</li>
+</ul>
+
+<ol>
+  <li>First create a <code>package.json</code>..</li>
+  <li>on the Command Line type <code>npm init</code>:
+    1. Read the instructions - you want to read the docs, add them, if not, delete them.
+    2. For which version type 0.0.0 (only it is for your first un published copy)</li>
+  <li>You created you <code>package.json</code> way to go!</li>
+  <li>No open your <code>package.json</code> in a word editor such as Atom</li>
+  <li><code>
+  {
+    "name": "octocat.github.io",
+    "version": "0.0.0",
+    "description": "---",
+    "main": "index.js",
+    "scripts": {
+ "tests": "-mocha"
+    },
+    "repository": {
+ "type": "git",
+ "url": "https://github.com/octocat.github.io.git"
+    },
+    "author": "Octocat (The Octocat)",
+    "license": "CCO",
+    "bugs": {
+ "url": "https://github.com/octocat.github.io/issues"
+    },
+    "homepage": "https://github.com/octocat.github.io"
+  }
+</code></li>
+  <li>Go to the `“scripts”: {</li>
+</ol>
+
+<pre><code>}`  section.   3. type `"start": ""browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/index.html"` This will sync all the files for the local server you have created, with a `startPath` so that   it knows where the path to open the files are.   4. It should look like this;   ```   ```   "scripts": {
+"tests": "-mocha",
+"start": ""browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/index.html"   },   ```
+  
+  
+  
+1. You may have noticed a `,` after `"tests": "-mocha"` to separate functions.   5. On the command line all you will have to do now is type `npm start` and VOILA!
+</code></pre>
+
+<ul>
+  <li>You can create scripts for almost anything you run in Command Line (such as <code>node-sass</code>)</li>
+</ul>
