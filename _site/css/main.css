@@ -119,7 +119,7 @@ body {
     clear: both;
     position: absolute; }
     .site-header #tagline p {
-      margin: 5em 9em; }
+      margin: 5em 9em 0 9em; }
   .site-header ul {
     margin: 0;
     padding: 0;
@@ -161,7 +161,8 @@ body {
       .site-header ul li {
         float: none; }
       .site-header ul .btn {
-        display: block; }
+        display: block;
+        color: white; }
       .site-header ul .menu li a {
         padding: 0px 20px 10px 20px; }
       .site-header ul .menu {
