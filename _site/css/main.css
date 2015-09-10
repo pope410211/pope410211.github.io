@@ -130,8 +130,7 @@ body {
     .site-header ul .menu {
       margin: 2em; }
     .site-header ul .btn {
-      display: none;
-      cursor: pointer; }
+      display: none; }
     .site-header ul li {
       float: left; }
       .site-header ul li a {
@@ -161,8 +160,15 @@ body {
       .site-header ul li {
         float: none; }
       .site-header ul .btn {
+        content: "";
+        position: absolute;
+        left: 0;
         display: block;
-        color: white; }
+        width: 16px;
+        top: 0;
+        height: 0;
+        -webkit-box-shadow: 1px 10px 1px 1px #3B3C3E, 1px 16px 1px 1px #3B3C3E, 1px 22px 1px 1px #3B3C3E;
+        box-shadow: 0 10px 0 1px #3B3C3E, 0 16px 0 1px #3B3C3E, 0 22px 0 1px #3B3C3E; }
       .site-header ul .menu li a {
         padding: 0px 20px 10px 20px; }
       .site-header ul .menu {

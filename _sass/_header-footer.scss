@@ -51,7 +51,7 @@ ul {
 
 .btn {
     display: none;
-    cursor: pointer;
+
 
   }
 
@@ -112,8 +112,18 @@ li {
 
     }
     .btn {
+        // display: block;
+        // color: white;
+        content: "";
+        position: absolute;
+        left: 0;
         display: block;
-        color: white;
+        width: 16px;
+        top: 0;
+        height: 0;
+        -webkit-box-shadow: 1px 10px 1px 1px $grey,1px 16px 1px 1px $grey,1px 22px 1px 1px $grey;
+        box-shadow: 0 10px 0 1px $grey,0 16px 0 1px $grey,0 22px 0 1px $grey;
+
     }
     .menu li a {
         padding: 0px 20px 10px 20px;
