@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # .gitignore for jekyllized projects
 
 # Ignore hidden folders
@@ -72,3 +73,9 @@ Gemfile
 _config.build.yml
 _config.yml
 src/_bower_components
+=======
+_site
+.sass-cache
+bower_components
+.npmignore
+>>>>>>> release/1.0.0--In-the-beginning

@@ -1,0 +1,83 @@
+.portfolio {
+margin: 0 auto;
+max-width: 95%;
+padding: 2em;
+
+#wip {
+  text-align: center;
+ #WIP-BTN {
+  color: #fff;
+  background-color: $grey;
+  border-color: $grey;
+  height: 3.25em;
+  width: 10em;
+
+  &:hover{
+    cursor: pointer;
+  }
+
+  }
+}
+
+
+.portfolio-div {
+  max-width: 100%;
+
+
+   ul {
+     list-style: none;
+
+
+
+     .port-li {
+        display: inline-block;
+        // border: .5ex solid red;
+        vertical-align: top;
+        max-width: 50%;
+
+     }
+   }
+
+#port-img {
+
+img {
+  height: 150px;
+  width: 250px;
+  border: .5ex solid $grey;
+
+  &:hover {
+    height: 30em;
+    width: 30em;
+    position: absolute;
+    background-color: black;
+  }
+}
+.sngl-img {
+  width: 525px;
+  height: 200px;
+  margin-right: 1ex;
+}
+
+}// end port-img
+
+#port-info {
+
+  .port-btn {
+    color: #fff;
+    background-color: $grey;
+    border-color: $grey;
+    height: 2em;
+    width: 10em;
+
+    &:hover{
+      cursor: pointer;
+    }
+  }
+} // end port-info
+
+ } // end portfolio-div
+
+
+
+
+}// end portfolio

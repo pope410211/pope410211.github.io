@@ -1,0 +1,184 @@
+body {
+background-color: black;
+color: white;
+font-family: "Source Sans Pro";
+min-height: 100vh;
+
+#splash {
+  content: url("/assets/images/MarioBanners-01.png");
+  margin: 2em 4.3em;
+
+}
+
+@media (max-width: $mobile) {
+  #splash {
+    content: url("/assets/images/MarioBanners-02.png");
+    max-width: 20em;
+    max-height: 30em;
+  }
+}
+
+.content {
+  clear: both;
+  display: block;
+
+  .side-bar {
+    float: left;
+    position: absolute;
+    max-width: 20%;
+    max-height: 100%;
+    margin: 2em;
+
+
+
+    ul {
+      list-style: none;
+      clear: both;
+
+      li {
+        float: left;
+        margin: .5ex;
+
+        img {
+          max-width: 2em;
+          max-height: 2em;
+        }
+      }
+    }
+    dl {
+      clear: both;
+      max-width: 100%;
+      dd{
+      font-size: 1ex;
+
+    }
+  }
+} // end aside
+
+@media (max-width: 55em) {
+
+  .side-bar {
+    display: none;
+  }
+
+}
+
+
+.about {
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em;
+
+.img-about {
+  text-align: center;
+img {
+  height: 10em;
+  width: 10em;
+  box-sizing: border-box;
+  border: .15em solid $grey;
+  border-radius: 10em;
+    }
+}
+
+.about-info {
+  margin: 0 auto;
+  max-width: 80%;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+}
+
+.resume {
+  width: 15em;
+  height: 10em;
+
+  img {
+  max-width: 100%;
+  height: auto;
+
+
+}
+}
+
+
+}
+
+  }// end about page
+
+
+  .recent-projects {
+    text-align: center;
+
+    #list-title {
+      font-size: 1.5em;
+      text-decoration: underline;
+    }
+    ul {
+      list-style: none;
+      vertical-align: bottom;
+
+      .sites-img {
+        display: inline-block;
+        padding: 1em 5em 1em 5em;
+        // vertical-align: top;
+
+        label {
+          font-size: 1em;
+        }
+        div {
+          margin-top: 2em;
+          display: block;
+          // margin: 0 auto;
+          margin-bottom: 10em;
+          p {
+            position: absolute;
+            height: 10em;
+            width: 10em;
+
+            a {
+              text-decoration: none;
+              color: $grey;
+
+              &:hover{
+              color: #fff;
+              }
+            }
+
+          }
+
+          img {
+          height: 10em;
+          width: 10em;
+        }
+      }
+
+      }
+
+  }
+  //end recent-projects
+
+  .resume-p {
+    width: 80%;
+    margin: 0 auto;
+
+
+    #resume {
+    max-width: 100%;
+    height: auto;
+    margin-top:2em;
+    margin-bottom: 2em;
+
+  }
+  }
+
+
+
+} // end content
+
+}//end body

@@ -1,7 +1,28 @@
 {
+<<<<<<< HEAD
   "name": "pope410211-github-io",
   "version": "0.0.0",
   "dependencies": {
     "jQuery": "~2.1.4"
+=======
+  "name": "pope410211.github.io",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pope410211/pope410211.github.io",
+  "authors": [
+    "Nick Pope <pope410211@gmail.com>"
+  ],
+  "description": "Nicholas Pope - Portfolio SIte",
+  "main": "index.html",
+  "license": "CCO",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "jQuery#~2.1.4"
+>>>>>>> release/1.0.0--In-the-beginning
   }
 }
