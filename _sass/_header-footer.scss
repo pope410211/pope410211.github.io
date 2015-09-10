@@ -28,7 +28,7 @@ clear: both;
   position:absolute;
 
     p {
-    margin: 5em 9em;
+    margin: 5em 9em 0 9em;
 
 
   }
@@ -113,6 +113,7 @@ li {
     }
     .btn {
         display: block;
+        color: white;
     }
     .menu li a {
         padding: 0px 20px 10px 20px;
