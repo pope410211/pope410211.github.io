@@ -1,7 +1,7 @@
 {
   "name": "pope410211.github.io",
   "version": "0.0.0",
-  "description": "Portfoliow Webpage",
+  "description": "Nick Popes - Portfolio Site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

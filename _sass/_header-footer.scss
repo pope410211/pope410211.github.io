@@ -1,0 +1,186 @@
+.site-header {
+// font-family:"Raleway:800";
+color: #3B3C3E;
+
+  .logo {
+    float: left;
+    display: inline-block;
+clear: both;
+
+    #name {
+      margin-left: .5em;
+      p {
+      font-weight: bolder;
+      font-size: 1.8em;
+      }
+  }
+    img {
+      width: 5em;
+      height: 5em;
+    }
+
+
+
+  }//end logo
+
+  #tagline {
+  clear:both;
+  position:absolute;
+
+    p {
+    margin: 5em 9em;
+
+
+  }
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;;
+    background-color: black;
+    float: right;
+
+.menu{
+  margin: 2em;
+}
+
+
+
+
+.btn {
+    display: none;
+    cursor: pointer;
+
+  }
+
+
+li {
+  float: left;
+
+
+ a {
+    display: block;
+    padding: 1em 1em 0em 2em;
+    text-decoration: none;
+    color: $grey;
+
+
+&:hover {
+    color: #fff;
+}
+
+    }
+  }
+} // end desktop view
+
+// mobile view
+@media (max-width: $mobile) {
+
+  .logo {
+
+    margin: 1em 1em 1em 7em;
+    clear: both;
+
+    #name {
+      margin-left: .5em;
+      p {
+      font-weight: bolder;
+      font-size: 1em;
+      }
+  }
+
+    img{
+      width: 5em;
+      height: 5em;
+    }
+  }
+
+  #tagline {
+  display: none;
+  }
+
+    ul{
+      // margin: 0 auto;
+      clear: both;
+      float: left;
+
+
+    li {
+      float: none;
+
+    }
+    .btn {
+        display: block;
+    }
+    .menu li a {
+        padding: 0px 20px 10px 20px;
+    }
+     .menu {
+        display: none;
+    }
+   li:hover .menu {
+        display: block;
+        z-index: 100;
+        position: absolute;
+    }
+  }
+}//end media query
+
+
+}//end site-header
+
+
+//Start site footer-col
+ .site-footer {
+color: $grey;
+font-size: .8em;
+
+  .social-icons {
+  display: table;
+  margin: 0 auto;
+  padding: 0 3em 0 0em;
+
+
+    .list-icons {
+
+
+      li {
+        position: relative;
+        float: left;
+        list-style: none;
+
+
+        a {
+          padding: 1em 0em .5em .5em;
+          text-decoration: none;
+          color: $grey;
+
+
+
+
+          img{
+            width: 3em;
+            height: 3em;
+
+            &:hover {
+                height: 4em;
+                width: 4em;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .copy {
+    // margin: 1em 0 0 0;
+    text-align: center;
+    position: relative;
+    clear: both;
+
+  }
+
+
+ }//end site-footer
