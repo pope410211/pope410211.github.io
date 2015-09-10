@@ -5,13 +5,16 @@ font-family: "Source Sans Pro";
 min-height: 100vh;
 
 #splash {
-  content: url("http://placehold.it/1200x300");
+  content: url("/assets/images/MarioBanners-01.png");
   margin: 2em 4.3em;
+
 }
 
 @media (max-width: $mobile) {
   #splash {
-    content: url("http://placehold.it/300x100")
+    content: url("/assets/images/MarioBanners-02.png");
+    max-width: 20em;
+    max-height: 30em;
   }
 }
 
@@ -19,6 +22,46 @@ min-height: 100vh;
   clear: both;
   display: block;
 
+  .side-bar {
+    float: left;
+    position: absolute;
+    max-width: 20%;
+    max-height: 100%;
+    margin: 2em;
+
+
+
+    ul {
+      list-style: none;
+      clear: both;
+
+      li {
+        float: left;
+        margin: .5ex;
+
+        img {
+          max-width: 2em;
+          max-height: 2em;
+        }
+      }
+    }
+    dl {
+      clear: both;
+      max-width: 100%;
+      dd{
+      font-size: 1ex;
+
+    }
+  }
+} // end aside
+
+@media (max-width: 55em) {
+
+  .side-bar {
+    display: none;
+  }
+
+}
 
 
 .about {
@@ -40,6 +83,15 @@ img {
 .about-info {
   margin: 0 auto;
   max-width: 80%;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover{
+      text-decoration: underline;
+    }
+  }
 }
 
 .resume {
@@ -52,6 +104,9 @@ img {
 
 
 }
+}
+
+
 }
 
   }// end about page
@@ -104,7 +159,7 @@ img {
       }
 
       }
-    }
+
   }
   //end recent-projects
 

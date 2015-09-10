@@ -12,6 +12,10 @@ padding: 2em;
   height: 3.25em;
   width: 10em;
 
+  &:hover{
+    cursor: pointer;
+  }
+
   }
 }
 
@@ -27,7 +31,7 @@ padding: 2em;
 
      .port-li {
         display: inline-block;
-        border: .5ex solid red;
+        // border: .5ex solid red;
         vertical-align: top;
         max-width: 50%;
 
@@ -39,6 +43,14 @@ padding: 2em;
 img {
   height: 150px;
   width: 250px;
+  border: .5ex solid $grey;
+
+  &:hover {
+    height: 30em;
+    width: 30em;
+    position: absolute;
+    background-color: black;
+  }
 }
 .sngl-img {
   width: 525px;
@@ -55,6 +67,10 @@ img {
     border-color: $grey;
     height: 2em;
     width: 10em;
+
+    &:hover{
+      cursor: pointer;
+    }
   }
 } // end port-info
 
