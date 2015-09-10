@@ -1,0 +1,287 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Source Sans Pro";
+  min-height: 100vh; }
+  body #splash {
+    content: url("/assets/images/MarioBanners-01.png");
+    margin: 2em 4.3em; }
+  @media (max-width: 30em) {
+    body #splash {
+      content: url("/assets/images/MarioBanners-02.png");
+      max-width: 20em;
+      max-height: 30em; } }
+  body .content {
+    clear: both;
+    display: block; }
+    body .content .side-bar {
+      float: left;
+      position: absolute;
+      max-width: 20%;
+      max-height: 100%;
+      margin: 2em; }
+      body .content .side-bar ul {
+        list-style: none;
+        clear: both; }
+        body .content .side-bar ul li {
+          float: left;
+          margin: .5ex; }
+          body .content .side-bar ul li img {
+            max-width: 2em;
+            max-height: 2em; }
+      body .content .side-bar dl {
+        clear: both;
+        max-width: 100%; }
+        body .content .side-bar dl dd {
+          font-size: 1ex; }
+    @media (max-width: 55em) {
+      body .content .side-bar {
+        display: none; } }
+    body .content .about {
+      margin: 0 auto;
+      max-width: 80%;
+      padding: 2em; }
+      body .content .about .img-about {
+        text-align: center; }
+        body .content .about .img-about img {
+          height: 10em;
+          width: 10em;
+          box-sizing: border-box;
+          border: 0.15em solid #3B3C3E;
+          border-radius: 10em; }
+      body .content .about .about-info {
+        margin: 0 auto;
+        max-width: 80%; }
+        body .content .about .about-info a {
+          color: inherit;
+          text-decoration: none; }
+          body .content .about .about-info a:hover {
+            text-decoration: underline; }
+      body .content .about .resume {
+        width: 15em;
+        height: 10em; }
+        body .content .about .resume img {
+          max-width: 100%;
+          height: auto; }
+  body .recent-projects {
+    text-align: center; }
+    body .recent-projects #list-title {
+      font-size: 1.5em;
+      text-decoration: underline; }
+    body .recent-projects ul {
+      list-style: none;
+      vertical-align: bottom; }
+      body .recent-projects ul .sites-img {
+        display: inline-block;
+        padding: 1em 5em 1em 5em; }
+        body .recent-projects ul .sites-img label {
+          font-size: 1em; }
+        body .recent-projects ul .sites-img div {
+          margin-top: 2em;
+          display: block;
+          margin-bottom: 10em; }
+          body .recent-projects ul .sites-img div p {
+            position: absolute;
+            height: 10em;
+            width: 10em; }
+            body .recent-projects ul .sites-img div p a {
+              text-decoration: none;
+              color: #3B3C3E; }
+              body .recent-projects ul .sites-img div p a:hover {
+                color: #fff; }
+          body .recent-projects ul .sites-img div img {
+            height: 10em;
+            width: 10em; }
+    body .recent-projects .resume-p {
+      width: 80%;
+      margin: 0 auto; }
+      body .recent-projects .resume-p #resume {
+        max-width: 100%;
+        height: auto;
+        margin-top: 2em;
+        margin-bottom: 2em; }
+
+.site-header {
+  color: #3B3C3E; }
+  .site-header .logo {
+    float: left;
+    display: inline-block;
+    clear: both; }
+    .site-header .logo #name {
+      margin-left: .5em; }
+      .site-header .logo #name p {
+        font-weight: bolder;
+        font-size: 1.8em; }
+    .site-header .logo img {
+      width: 5em;
+      height: 5em; }
+  .site-header #tagline {
+    clear: both;
+    position: absolute; }
+    .site-header #tagline p {
+      margin: 5em 9em; }
+  .site-header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    background-color: black;
+    float: right; }
+    .site-header ul .menu {
+      margin: 2em; }
+    .site-header ul .btn {
+      display: none;
+      cursor: pointer; }
+    .site-header ul li {
+      float: left; }
+      .site-header ul li a {
+        display: block;
+        padding: 1em 1em 0em 2em;
+        text-decoration: none;
+        color: #3B3C3E; }
+        .site-header ul li a:hover {
+          color: #fff; }
+  @media (max-width: 30em) {
+    .site-header .logo {
+      margin: 1em 1em 1em 7em;
+      clear: both; }
+      .site-header .logo #name {
+        margin-left: .5em; }
+        .site-header .logo #name p {
+          font-weight: bolder;
+          font-size: 1em; }
+      .site-header .logo img {
+        width: 5em;
+        height: 5em; }
+    .site-header #tagline {
+      display: none; }
+    .site-header ul {
+      clear: both;
+      float: left; }
+      .site-header ul li {
+        float: none; }
+      .site-header ul .btn {
+        display: block; }
+      .site-header ul .menu li a {
+        padding: 0px 20px 10px 20px; }
+      .site-header ul .menu {
+        display: none; }
+      .site-header ul li:hover .menu {
+        display: block;
+        z-index: 100;
+        position: absolute; } }
+
+.site-footer {
+  color: #3B3C3E;
+  font-size: .8em; }
+  .site-footer .social-icons {
+    display: table;
+    margin: 0 auto;
+    padding: 0 3em 0 0em; }
+    .site-footer .social-icons .list-icons li {
+      position: relative;
+      float: left;
+      list-style: none; }
+      .site-footer .social-icons .list-icons li a {
+        padding: 1em 0em .5em .5em;
+        text-decoration: none;
+        color: #3B3C3E; }
+        .site-footer .social-icons .list-icons li a img {
+          width: 3em;
+          height: 3em; }
+          .site-footer .social-icons .list-icons li a img:hover {
+            height: 4em;
+            width: 4em; }
+  .site-footer .copy {
+    text-align: center;
+    position: relative;
+    clear: both; }
+
+.contact-page {
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em;
+  text-align: center;
+  color: #3B3C3E; }
+  .contact-page .contact-me {
+    max-width: 100%; }
+    .contact-page .contact-me #contact-divs {
+      list-style: none; }
+      .contact-page .contact-me #contact-divs .divs-list {
+        display: inline-block; }
+    .contact-page .contact-me #personal {
+      color: #3A3A3C;
+      font-size: 1.2em; }
+      .contact-page .contact-me #personal ul {
+        list-style: none;
+        text-align: right;
+        padding-right: 3em; }
+    .contact-page .contact-me #social-link {
+      border-left: 0.3em solid #3B3C3E; }
+      .contact-page .contact-me #social-link .list-icons {
+        display: inline-block;
+        list-style: none;
+        margin-right: 3em; }
+        .contact-page .contact-me #social-link .list-icons a {
+          padding: 1em 0em .5em .5em; }
+          .contact-page .contact-me #social-link .list-icons a img {
+            width: 3em;
+            height: 3em; }
+  @media (max-width: 30em) {
+    .contact-page .contact-me #contact-divs {
+      margin: 0;
+      padding: 0; }
+    .contact-page .contact-me #personal {
+      margin-bottom: 1em;
+      padding: 0; }
+      .contact-page .contact-me #personal ul li {
+        text-align: center; }
+        .contact-page .contact-me #personal ul li small {
+          display: none; }
+    .contact-page .contact-me #social-link {
+      border: none;
+      margin-bottom: 1em; } }
+
+.portfolio {
+  margin: 0 auto;
+  max-width: 95%;
+  padding: 2em; }
+  .portfolio #wip {
+    text-align: center; }
+    .portfolio #wip #WIP-BTN {
+      color: #fff;
+      background-color: #3B3C3E;
+      border-color: #3B3C3E;
+      height: 3.25em;
+      width: 10em; }
+      .portfolio #wip #WIP-BTN:hover {
+        cursor: pointer; }
+  .portfolio .portfolio-div {
+    max-width: 100%; }
+    .portfolio .portfolio-div ul {
+      list-style: none; }
+      .portfolio .portfolio-div ul .port-li {
+        display: inline-block;
+        vertical-align: top;
+        max-width: 50%; }
+    .portfolio .portfolio-div #port-img img {
+      height: 150px;
+      width: 250px;
+      border: 0.5ex solid #3B3C3E; }
+      .portfolio .portfolio-div #port-img img:hover {
+        height: 30em;
+        width: 30em;
+        position: absolute;
+        background-color: black; }
+    .portfolio .portfolio-div #port-img .sngl-img {
+      width: 525px;
+      height: 200px;
+      margin-right: 1ex; }
+    .portfolio .portfolio-div #port-info .port-btn {
+      color: #fff;
+      background-color: #3B3C3E;
+      border-color: #3B3C3E;
+      height: 2em;
+      width: 10em; }
+      .portfolio .portfolio-div #port-info .port-btn:hover {
+        cursor: pointer; }
