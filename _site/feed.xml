@@ -5,10 +5,11 @@
     <description></description>
     <link>pope410211.github.io/</link>
     <atom:link href="pope410211.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 13:08:23 -0400</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 13:08:23 -0400</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2015 16:29:19 -0400</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 16:29:19 -0400</lastBuildDate>
+
     <generator>Jekyll v2.5.3</generator>
-    
+
       <item>
         <title>Welcome to Jekyll!</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
@@ -29,14 +30,14 @@
         <pubDate>Sun, 06 Sep 2015 17:55:28 -0400</pubDate>
         <link>pope410211.github.io/jekyll/update/2015/09/06/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">pope410211.github.io/jekyll/update/2015/09/06/welcome-to-jekyll.html</guid>
-        
-        
+
+
         <category>jekyll</category>
-        
+
         <category>update</category>
-        
+
       </item>
-    
+
       <item>
         <title>The Tutorial</title>
         <description>
@@ -44,10 +45,10 @@
         <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/06/11/the-tutorial.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/06/11/the-tutorial.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>No Name</title>
         <description>&lt;h3 id=&quot;my-journal&quot;&gt;MY journal….&lt;/h3&gt;
@@ -60,10 +61,10 @@ are nervous about being ready to enter the field. However recently working with 
         <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/06/11/No-Name.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/06/11/No-Name.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>A Link Between Info</title>
         <description>&lt;h2 id=&quot;what-is-my-favorite-link-to-use-thus-far-css-trickshttpscss-trickscom&quot;&gt;What is my favorite link to use thus far? &lt;a href=&quot;https://css-tricks.com/&quot;&gt;&lt;strong&gt;CSS TRICKS&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
@@ -76,10 +77,10 @@ go and review Chris Coyer’s blog, and explanations ( and other authors, I am s
         <pubDate>Mon, 08 Jun 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/06/08/A-Link-Between-Info.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/06/08/A-Link-Between-Info.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Flux Capacitor At Max Review</title>
         <description>&lt;p&gt;Week 3,&lt;/p&gt;
@@ -102,10 +103,10 @@ go and review Chris Coyer’s blog, and explanations ( and other authors, I am s
         <pubDate>Tue, 19 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/19/flux-capacitor-at-max-review.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/19/flux-capacitor-at-max-review.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Codemonekeywk2 Bananas</title>
         <description>&lt;h1 id=&quot;peeling-the-banana&quot;&gt;Peeling the Banana!&lt;/h1&gt;
@@ -152,10 +153,10 @@ go and review Chris Coyer’s blog, and explanations ( and other authors, I am s
         <pubDate>Fri, 15 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/15/CodeMonekeyWK2-Bananas.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/15/CodeMonekeyWK2-Bananas.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Codemonkeywk1</title>
         <description>
@@ -234,10 +235,10 @@ bit of what it will be like when we graduate in a few months!&lt;/p&gt;
         <pubDate>Fri, 08 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/08/CodeMonkeyWK1.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/08/CodeMonkeyWK1.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Tutorials Are For Xbox People</title>
         <description>&lt;h1 id=&quot;the-tutorial&quot;&gt;The TUTORIAL&lt;/h1&gt;
@@ -283,9 +284,9 @@ bit of what it will be like when we graduate in a few months!&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;}`  section.   3. type `&quot;start&quot;: &quot;&quot;browser-sync start --server --files=&#39;js/*.js,test/index.html,test/spec/**/*.js&#39; --startPath src/index.html&quot;` This will sync all the files for the local server you have created, with a `startPath` so that   it knows where the path to open the files are.   4. It should look like this;   ```   ```   &quot;scripts&quot;: {
 &quot;tests&quot;: &quot;-mocha&quot;,
 &quot;start&quot;: &quot;&quot;browser-sync start --server --files=&#39;js/*.js,test/index.html,test/spec/**/*.js&#39; --startPath src/index.html&quot;   },   ```
-  
-  
-  
+
+
+
 1. You may have noticed a `,` after `&quot;tests&quot;: &quot;-mocha&quot;` to separate functions.   5. On the command line all you will have to do now is type `npm start` and VOILA!
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -296,10 +297,10 @@ bit of what it will be like when we graduate in a few months!&lt;/p&gt;
         <pubDate>Thu, 07 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/07/Tutorials-are-for-Xbox-people.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/07/Tutorials-are-for-Xbox-people.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Tardis</title>
         <description>&lt;h1 id=&quot;time-and-reflective-dimension-in-space--tardis&quot;&gt;Time and Reflective Dimension In Space = T.A.R.D.I.S.&lt;/h1&gt;
@@ -323,10 +324,10 @@ cohorts to learn it, and become an awesome Junior Developer…or Their Boss…&l
         <pubDate>Thu, 07 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/07/TARDIS.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/07/TARDIS.html</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Growth Vs Fixed Mindset</title>
         <description>&lt;h1 id=&quot;nature-vs-nurture-challening-growth-or-fixated-content&quot;&gt;Nature Vs. Nurture: Challening Growth or Fixated Content&lt;/h1&gt;
@@ -396,9 +397,9 @@ cohorts to learn it, and become an awesome Junior Developer…or Their Boss…&l
         <pubDate>Mon, 04 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/04/growth-vs-fixed-mindset.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/04/growth-vs-fixed-mindset.html</guid>
-        
-        
+
+
       </item>
-    
+
   </channel>
 </rss>
