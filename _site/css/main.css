@@ -63,39 +63,41 @@ body {
         body .content .about .resume img {
           max-width: 100%;
           height: auto; }
-  body .recent-projects {
-    text-align: center; }
-    body .recent-projects #list-title {
-      font-size: 1.5em;
-      text-decoration: underline; }
-    body .recent-projects ul {
-      list-style: none;
-      vertical-align: bottom; }
-      body .recent-projects ul .sites-img {
-        display: inline-block;
-        padding: 1em 5em 1em 5em; }
-        body .recent-projects ul .sites-img label {
-          font-size: 1em; }
-        body .recent-projects ul .sites-img div {
-          margin-top: 2em;
-          display: block;
-          margin-bottom: 10em; }
-          body .recent-projects ul .sites-img div p {
-            position: absolute;
-            height: 10em;
-            width: 10em; }
-            body .recent-projects ul .sites-img div p a {
-              text-decoration: none;
-              color: #3B3C3E; }
-              body .recent-projects ul .sites-img div p a:hover {
-                color: #fff; }
-          body .recent-projects ul .sites-img div img {
-            height: 10em;
-            width: 10em; }
-    body .recent-projects .resume-p {
+    body .content .recent-projects {
+      text-align: center; }
+      body .content .recent-projects #list-title {
+        font-size: 1.5em;
+        text-decoration: underline; }
+      body .content .recent-projects ul {
+        list-style: none;
+        vertical-align: bottom; }
+        body .content .recent-projects ul .sites-img {
+          display: inline-block;
+          padding: 1em 5em 1em 5em; }
+          body .content .recent-projects ul .sites-img label {
+            font-size: 1em; }
+          body .content .recent-projects ul .sites-img div {
+            margin-top: 2em;
+            display: block;
+            margin-bottom: 10em; }
+            body .content .recent-projects ul .sites-img div p {
+              position: absolute;
+              height: 10em;
+              width: 10em; }
+              body .content .recent-projects ul .sites-img div p a {
+                text-decoration: none;
+                color: #3B3C3E; }
+                body .content .recent-projects ul .sites-img div p a:hover {
+                  color: #fff; }
+            body .content .recent-projects ul .sites-img div img {
+              height: 10em;
+              width: 10em; }
+    body .content .resume-p {
       width: 80%;
       margin: 0 auto; }
-      body .recent-projects .resume-p #resume {
+      body .content .resume-p img {
+        max-width: 100%;
+        height: auto;
         margin-top: 2em;
         margin-bottom: 2em; }
 
@@ -117,7 +119,7 @@ body {
     clear: both;
     position: absolute; }
     .site-header #tagline p {
-      margin: 5em 9em; }
+      margin: 5em 9em 0 9em; }
   .site-header ul {
     margin: 0;
     padding: 0;
@@ -128,8 +130,7 @@ body {
     .site-header ul .menu {
       margin: 2em; }
     .site-header ul .btn {
-      display: none;
-      cursor: pointer; }
+      display: none; }
     .site-header ul li {
       float: left; }
       .site-header ul li a {

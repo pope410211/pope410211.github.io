@@ -107,7 +107,6 @@ img {
 }
 
 
-}
 
   }// end about page
 
@@ -159,7 +158,7 @@ img {
       }
 
       }
-
+    }
   }
   //end recent-projects
 
@@ -168,8 +167,9 @@ img {
     margin: 0 auto;
 
 
-    #resume {
-
+    img {
+    max-width: 100%;
+    height: auto;
     margin-top:2em;
     margin-bottom: 2em;
 
