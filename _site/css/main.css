@@ -50,7 +50,7 @@ body {
           height: 10em;
           width: 10em;
           box-sizing: border-box;
-          border: 0.15em solid #3B3C3E;
+          border: 0.15em solid #464648;
           border-radius: 10em; }
       body .content .about .about-info {
         margin: 0 auto;
@@ -89,7 +89,7 @@ body {
               width: 10em; }
               body .content .recent-projects ul .sites-img div p a {
                 text-decoration: none;
-                color: #3B3C3E; }
+                color: #464648; }
                 body .content .recent-projects ul .sites-img div p a:hover {
                   color: #fff; }
             body .content .recent-projects ul .sites-img div img {
@@ -140,7 +140,7 @@ body {
         display: block;
         padding: 1em 1em 0em 2em;
         text-decoration: none;
-        color: #3B3C3E; }
+        color: #464648; }
         .site-header ul li a:hover {
           color: #fff; }
   @media (max-width: 30em) {
@@ -174,7 +174,7 @@ body {
         position: absolute; } }
 
 .site-footer {
-  color: #3B3C3E;
+  color: #464648;
   font-size: .8em; }
   .site-footer .social-icons {
     display: table;
@@ -187,7 +187,7 @@ body {
       .site-footer .social-icons .list-icons li a {
         padding: 1em 0em .5em .5em;
         text-decoration: none;
-        color: #3B3C3E; }
+        color: #464648; }
         .site-footer .social-icons .list-icons li a img {
           width: 3em;
           height: 3em; }
@@ -204,7 +204,7 @@ body {
   max-width: 80%;
   padding: 2em;
   text-align: center;
-  color: #3B3C3E; }
+  color: #464648; }
   .contact-page .contact-me {
     max-width: 100%; }
     .contact-page .contact-me #contact-divs {
@@ -219,7 +219,7 @@ body {
         text-align: right;
         padding-right: 3em; }
     .contact-page .contact-me #social-link {
-      border-left: 0.3em solid #3B3C3E; }
+      border-left: 0.3em solid #464648; }
       .contact-page .contact-me #social-link .list-icons {
         display: inline-block;
         list-style: none;
@@ -252,8 +252,8 @@ body {
     text-align: center; }
     .portfolio #wip #WIP-BTN {
       color: #fff;
-      background-color: #3B3C3E;
-      border-color: #3B3C3E;
+      background-color: #464648;
+      border-color: #464648;
       height: 3.25em;
       width: 10em; }
       .portfolio #wip #WIP-BTN:hover {
@@ -269,7 +269,7 @@ body {
     .portfolio .portfolio-div #port-img img {
       height: 150px;
       width: 250px;
-      border: 0.5ex solid #3B3C3E; }
+      border: 0.5ex solid #464648; }
       .portfolio .portfolio-div #port-img img:hover {
         height: 30em;
         width: 30em;
@@ -281,8 +281,8 @@ body {
       margin-right: 1ex; }
     .portfolio .portfolio-div #port-info .port-btn {
       color: #fff;
-      background-color: #3B3C3E;
-      border-color: #3B3C3E;
+      background-color: #464648;
+      border-color: #464648;
       height: 2em;
       width: 10em; }
       .portfolio .portfolio-div #port-info .port-btn:hover {
