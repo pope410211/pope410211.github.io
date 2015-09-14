@@ -5,8 +5,13 @@
     <description></description>
     <link>pope410211.github.io/</link>
     <atom:link href="pope410211.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Mon, 14 Sep 2015 12:59:59 -0400</pubDate>
     <lastBuildDate>Mon, 14 Sep 2015 12:59:59 -0400</lastBuildDate>
+=======
+    <pubDate>Mon, 14 Sep 2015 13:03:58 -0400</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2015 13:03:58 -0400</lastBuildDate>
+>>>>>>> develop
     <generator>Jekyll v2.5.3</generator>
     
       <item>
