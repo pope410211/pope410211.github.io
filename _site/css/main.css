@@ -63,10 +63,13 @@ body {
             text-decoration: underline; }
       body .content .about .resume {
         width: 15em;
-        height: 10em; }
+        height: 4em; }
         body .content .about .resume img {
           max-width: 100%;
           height: auto; }
+      body .content .about .twitter {
+        text-align: center;
+        max-width: 100%; }
     body .content .recent-projects {
       text-align: center; }
       body .content .recent-projects #list-title {
