@@ -48,11 +48,11 @@ body {
       body .content .about .img-about {
         text-align: center; }
         body .content .about .img-about img {
-          height: 10em;
-          width: 10em;
+          height: 12em;
+          width: 12em;
           box-sizing: border-box;
           border: 0.15em solid #464648;
-          border-radius: 10em; }
+          border-radius: 1em; }
       body .content .about .about-info {
         margin: 0 auto;
         max-width: 80%; }
