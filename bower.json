@@ -14,11 +14,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "jquery": "jQuery#~2.1.4"
-  },
-  "devDependencies": {
-    "jquery": "jQuery#~2.1.4"
-  }
+  ]
 }
