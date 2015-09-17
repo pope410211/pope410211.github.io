@@ -45,12 +45,6 @@ img {
   width: 250px;
   border: .5ex solid $grey;
 
-  &:hover {
-    height: 30em;
-    width: 30em;
-    position: absolute;
-    background-color: black;
-  }
 }
 .sngl-img {
   width: 525px;

@@ -274,11 +274,6 @@ body {
       height: 150px;
       width: 250px;
       border: 0.5ex solid #464648; }
-      .portfolio .portfolio-div #port-img img:hover {
-        height: 30em;
-        width: 30em;
-        position: absolute;
-        background-color: black; }
     .portfolio .portfolio-div #port-img .sngl-img {
       width: 525px;
       height: 200px;
