@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # [Wk 1 Rough]()
 

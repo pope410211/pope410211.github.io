@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Week 3,
 
 Looking back, when I started the Iron Yard on May the fourth ( I did hope the fourth

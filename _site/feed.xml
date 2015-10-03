@@ -5,37 +5,9 @@
     <description></description>
     <link>pope410211.github.io/</link>
     <atom:link href="pope410211.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Sep 2015 21:49:59 -0400</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2015 21:49:59 -0400</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2015 14:24:56 -0400</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2015 14:24:56 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 06 Sep 2015 17:55:28 -0400</pubDate>
-        <link>pope410211.github.io/jekyll/update/2015/09/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">pope410211.github.io/jekyll/update/2015/09/06/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
     
       <item>
         <title>The Tutorial</title>
@@ -158,8 +130,7 @@ go and review Chris Coyer’s blog, and explanations ( and other authors, I am s
     
       <item>
         <title>Codemonkeywk1</title>
-        <description>
-&lt;h1 id=&quot;wk-1-rough&quot;&gt;&lt;a href=&quot;&quot;&gt;Wk 1 Rough&lt;/a&gt;&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;wk-1-rough&quot;&gt;&lt;a href=&quot;&quot;&gt;Wk 1 Rough&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;Week one started off with tons of excitement, and some extreme nervousness.
 I was nervous about my level of coding experience compared to the other
@@ -283,9 +254,9 @@ bit of what it will be like when we graduate in a few months!&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;}`  section.   3. type `&quot;start&quot;: &quot;&quot;browser-sync start --server --files=&#39;js/*.js,test/index.html,test/spec/**/*.js&#39; --startPath src/index.html&quot;` This will sync all the files for the local server you have created, with a `startPath` so that   it knows where the path to open the files are.   4. It should look like this;   ```   ```   &quot;scripts&quot;: {
 &quot;tests&quot;: &quot;-mocha&quot;,
 &quot;start&quot;: &quot;&quot;browser-sync start --server --files=&#39;js/*.js,test/index.html,test/spec/**/*.js&#39; --startPath src/index.html&quot;   },   ```
-  
-  
-  
+
+
+
 1. You may have noticed a `,` after `&quot;tests&quot;: &quot;-mocha&quot;` to separate functions.   5. On the command line all you will have to do now is type `npm start` and VOILA!
 &lt;/code&gt;&lt;/pre&gt;
 
@@ -391,7 +362,6 @@ cohorts to learn it, and become an awesome Junior Developer…or Their Boss…&l
 &lt;p&gt;Let’s apply it to now. Even as adults we are constantly living in a box. But we are learning to grow and take steps. On May 4th, 2015 a group of adults -with same goal in mind, to become great developers- joined together in a cohort to learn new languages and how to apply them! No individual entering has a fixed mindset. They are looking for a challenge, pushing themselves to learn together and on their own. The mindsets will not focus on whether they passed or failed, but what they did wrong and how to improve.&lt;/p&gt;
 
 &lt;p&gt;Even as a adults we can learn. and to quote Dr. James A. Moore “There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!”&lt;/p&gt;
-
 </description>
         <pubDate>Mon, 04 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/04/growth-vs-fixed-mindset.html</link>

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #Peeling the Banana!
 
  * What did we learn in Week 2 at The Iron Yard Orlando?
