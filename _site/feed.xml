@@ -5,8 +5,8 @@
     <description></description>
     <link>pope410211.github.io/</link>
     <atom:link href="pope410211.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Oct 2015 15:18:28 -0400</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2015 15:18:28 -0400</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2015 16:09:18 -0400</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2015 16:09:18 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -119,9 +119,7 @@ go and review Chris Coyer’s blog, and explanations ( and other authors, I am s
     
       <item>
         <title>Codemonkeywk1</title>
-        <description>&lt;h1 id=&quot;wk-1-rough&quot;&gt;&lt;a href=&quot;&quot;&gt;Wk 1 Rough&lt;/a&gt;&lt;/h1&gt;
-
-&lt;p&gt;Week one started off with tons of excitement, and some extreme nervousness.
+        <description>&lt;p&gt;Week one started off with tons of excitement, and some extreme nervousness.
 I was nervous about my level of coding experience compared to the other
 students that would be there, yet I was pleasantly surprised to see I was at the
 same level roughly. The day began maybe even more excited to begin training for
@@ -134,7 +132,7 @@ going to rock these 12 weeks - the end of the week began to prove us wrong.&lt;/
 &lt;p&gt;We started off with terminal and moved to JavaScript and attempting to create a
 String Calculator and todo list web app. We stared the todo.js with planning,
 which involved users stories. An example of which is “A Smurf can Smurf so that
-Smurfs can Smurf” (or “A Someone can do this so that somone can benefit”).&lt;/p&gt;
+Smurfs can Smurf” (or “A Someone can do this so that someone can benefit”).&lt;/p&gt;
 
 &lt;p&gt;After the user stories and plan what the something can do we start the small
 processes and do “YAGNI” - You Aint Gunna Need It - pulling ideas from the task

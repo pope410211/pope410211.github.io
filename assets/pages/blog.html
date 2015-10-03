@@ -4,12 +4,13 @@ title: Blog
 permalink: /blog/
 ---
 
-
+<section class="blog1">
 <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      <p class="excerpt">{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
+</section>
