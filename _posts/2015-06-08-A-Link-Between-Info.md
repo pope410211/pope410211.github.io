@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: post
+
+author: Nick Pope
 ---
 
 ## What is my favorite link to use thus far? [**CSS TRICKS**](https://css-tricks.com/)

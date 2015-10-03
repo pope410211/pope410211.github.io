@@ -5,20 +5,9 @@
     <description></description>
     <link>pope410211.github.io/</link>
     <atom:link href="pope410211.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Oct 2015 14:24:56 -0400</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2015 14:24:56 -0400</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2015 15:18:28 -0400</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2015 15:18:28 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>The Tutorial</title>
-        <description>
-</description>
-        <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
-        <link>pope410211.github.io/2015/06/11/the-tutorial.html</link>
-        <guid isPermaLink="true">pope410211.github.io/2015/06/11/the-tutorial.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>No Name</title>
@@ -212,21 +201,22 @@ bit of what it will be like when we graduate in a few months!&lt;/p&gt;
       <item>
         <title>Tutorials Are For Xbox People</title>
         <description>&lt;h1 id=&quot;the-tutorial&quot;&gt;The TUTORIAL&lt;/h1&gt;
-&lt;p&gt;###### (If you play XBOX or COD..this TUTORIAL may be too difficult, its ok, ask for help).&lt;/p&gt;
+&lt;p&gt;(If you play XBOX or COD..this TUTORIAL may be too difficult, its ok, ask for help).&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;What is a script?&lt;/li&gt;
-  &lt;li&gt;A script is a program or sequence of instructions that is interpreted or carried out by another program.&lt;/li&gt;
+  &lt;li&gt;What is a script?
+    &lt;ul&gt;
+      &lt;li&gt;A script is a program or sequence of instructions that is interpreted or carried out by another program.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;we are going to add a browser-sync script for this TUTORIAL (again XBOX/COD people - it may be difficult to keep up, but you can do it.)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;First create a &lt;code&gt;package.json&lt;/code&gt;..&lt;/li&gt;
-  &lt;li&gt;on the Command Line type &lt;code&gt;npm init&lt;/code&gt;:
-    1. Read the instructions - you want to read the docs, add them, if not, delete them.
-    2. For which version type 0.0.0 (only it is for your first un published copy)&lt;/li&gt;
-  &lt;li&gt;You created you &lt;code&gt;package.json&lt;/code&gt; way to go!&lt;/li&gt;
-  &lt;li&gt;No open your &lt;code&gt;package.json&lt;/code&gt; in a word editor such as Atom&lt;/li&gt;
+  &lt;li&gt;First create a &lt;code&gt;package.json&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;on the Command Line type &lt;code&gt;npm init&lt;/code&gt;: 1. Read the instructions - you want to read the docs, add them, if not, delete them.&lt;/li&gt;
+  &lt;li&gt;For which version type 0.0.0 (only it is for your first un published copy)2. You created you &lt;code&gt;package.json&lt;/code&gt; way to go!&lt;/li&gt;
+  &lt;li&gt;Now open your &lt;code&gt;package.json&lt;/code&gt; in a word editor - such as Atom&lt;/li&gt;
   &lt;li&gt;&lt;code&gt;
   {
     &quot;name&quot;: &quot;octocat.github.io&quot;,
@@ -248,16 +238,20 @@ bit of what it will be like when we graduate in a few months!&lt;/p&gt;
     &quot;homepage&quot;: &quot;https://github.com/octocat.github.io&quot;
   }
 &lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Go to the `“scripts”: {&lt;/li&gt;
+  &lt;li&gt;Go to the &lt;code&gt;&quot;scripts&quot;: { }&lt;/code&gt;  section.&lt;/li&gt;
+  &lt;li&gt;type &lt;code&gt;&quot;start&quot;: &quot;&quot;browser-sync start --server --files=&#39;js/*.js,test/index.html,test/spec/**/*.js&#39; --startPath src/index.html&quot;&lt;/code&gt; This will sync all the files for the local server you have created, with a &lt;code&gt;startPath&lt;/code&gt; so that
+  it knows where the path to open the files are.&lt;/li&gt;
+  &lt;li&gt;It should look like this;
+  &lt;code&gt;
+ &lt;/code&gt;
+  “scripts”: {
+    “tests”: “-mocha”,
+    “start”: “browser-sync start –server –files=’js/&lt;em&gt;.js,test/index.html,test/spec/**/&lt;/em&gt;.js’ –startPath src/index.html”
+  }
+  ```&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;pre&gt;&lt;code&gt;}`  section.   3. type `&quot;start&quot;: &quot;&quot;browser-sync start --server --files=&#39;js/*.js,test/index.html,test/spec/**/*.js&#39; --startPath src/index.html&quot;` This will sync all the files for the local server you have created, with a `startPath` so that   it knows where the path to open the files are.   4. It should look like this;   ```   ```   &quot;scripts&quot;: {
-&quot;tests&quot;: &quot;-mocha&quot;,
-&quot;start&quot;: &quot;&quot;browser-sync start --server --files=&#39;js/*.js,test/index.html,test/spec/**/*.js&#39; --startPath src/index.html&quot;   },   ```
-
-
-
-1. You may have noticed a `,` after `&quot;tests&quot;: &quot;-mocha&quot;` to separate functions.   5. On the command line all you will have to do now is type `npm start` and VOILA!
+&lt;pre&gt;&lt;code&gt;1. You may have noticed a `,` after `&quot;tests&quot;: &quot;-mocha&quot;` to separate functions.   5. On the command line all you will have to do now is type `npm start` and VOILA!
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;ul&gt;

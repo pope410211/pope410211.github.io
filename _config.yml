@@ -9,4 +9,10 @@ twitter_username: pope410211
 github_username:  pope410211
 
 # Markdown library
-markdown: kramdown
+markdown:   Redcarpet
+
+# Author details.
+Nick_Pope:
+    name: Nick Pope
+    email: pope410211@gmail.com
+    web: http://twitter.com/pope410211

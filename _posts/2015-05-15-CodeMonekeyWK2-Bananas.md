@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: post
+
+author: Nick Pope
 ---
 
 #Peeling the Banana!

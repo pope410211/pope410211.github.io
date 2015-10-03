@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: post
+
+author: Nick Pope
 ---
 
 # [Wk 1 Rough]()

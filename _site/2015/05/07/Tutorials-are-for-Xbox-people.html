@@ -44,22 +44,31 @@
 
 
     <section class="content">
-      <h1 id="the-tutorial">The TUTORIAL</h1>
-<p>###### (If you play XBOX or COD..this TUTORIAL may be too difficult, its ok, ask for help).</p>
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Tutorials Are For Xbox People</h1>
+    <p class="post-meta">May 7, 2015 • Nick Pope</p>
+  </header>
+
+  <article class="post-content">
+    <h1 id="the-tutorial">The TUTORIAL</h1>
+<p>(If you play XBOX or COD..this TUTORIAL may be too difficult, its ok, ask for help).</p>
 
 <ul>
-  <li>What is a script?</li>
-  <li>A script is a program or sequence of instructions that is interpreted or carried out by another program.</li>
+  <li>What is a script?
+    <ul>
+      <li>A script is a program or sequence of instructions that is interpreted or carried out by another program.</li>
+    </ul>
+  </li>
   <li>we are going to add a browser-sync script for this TUTORIAL (again XBOX/COD people - it may be difficult to keep up, but you can do it.)</li>
 </ul>
 
 <ol>
-  <li>First create a <code>package.json</code>..</li>
-  <li>on the Command Line type <code>npm init</code>:
-    1. Read the instructions - you want to read the docs, add them, if not, delete them.
-    2. For which version type 0.0.0 (only it is for your first un published copy)</li>
-  <li>You created you <code>package.json</code> way to go!</li>
-  <li>No open your <code>package.json</code> in a word editor such as Atom</li>
+  <li>First create a <code>package.json</code>.</li>
+  <li>on the Command Line type <code>npm init</code>: 1. Read the instructions - you want to read the docs, add them, if not, delete them.</li>
+  <li>For which version type 0.0.0 (only it is for your first un published copy)2. You created you <code>package.json</code> way to go!</li>
+  <li>Now open your <code>package.json</code> in a word editor - such as Atom</li>
   <li><code>
   {
     "name": "octocat.github.io",
@@ -81,21 +90,29 @@
     "homepage": "https://github.com/octocat.github.io"
   }
 </code></li>
-  <li>Go to the `“scripts”: {</li>
+  <li>Go to the <code>"scripts": { }</code>  section.</li>
+  <li>type <code>"start": ""browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/index.html"</code> This will sync all the files for the local server you have created, with a <code>startPath</code> so that
+  it knows where the path to open the files are.</li>
+  <li>It should look like this;
+  <code>
+ </code>
+  “scripts”: {
+    “tests”: “-mocha”,
+    “start”: “browser-sync start –server –files=’js/<em>.js,test/index.html,test/spec/**/</em>.js’ –startPath src/index.html”
+  }
+  ```</li>
 </ol>
 
-<pre><code>}`  section.   3. type `"start": ""browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/index.html"` This will sync all the files for the local server you have created, with a `startPath` so that   it knows where the path to open the files are.   4. It should look like this;   ```   ```   "scripts": {
-"tests": "-mocha",
-"start": ""browser-sync start --server --files='js/*.js,test/index.html,test/spec/**/*.js' --startPath src/index.html"   },   ```
-
-
-
-1. You may have noticed a `,` after `"tests": "-mocha"` to separate functions.   5. On the command line all you will have to do now is type `npm start` and VOILA!
+<pre><code>1. You may have noticed a `,` after `"tests": "-mocha"` to separate functions.   5. On the command line all you will have to do now is type `npm start` and VOILA!
 </code></pre>
 
 <ul>
   <li>You can create scripts for almost anything you run in Command Line (such as <code>node-sass</code>)</li>
 </ul>
+
+  </article>
+
+</div>
 
     </section>
 
