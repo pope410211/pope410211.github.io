@@ -108,6 +108,34 @@ body {
         margin-top: 2em;
         margin-bottom: 2em; }
 
+.blog1 {
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em;
+  text-align: center; }
+  .blog1 ul {
+    list-style: none; }
+    .blog1 ul li {
+      margin-top: 1.5em; }
+      .blog1 ul li .title {
+        font-size: 2em;
+        text-decoration: none;
+        color: #464648; }
+        .blog1 ul li .title .excerpt {
+          display: none; }
+        .blog1 ul li .title:hover {
+          color: #fff; }
+          .blog1 ul li .title:hover .excerpt {
+            margin: 0 auto;
+            display: block;
+            max-width: 40%;
+            font-size: 1ex; }
+
+.post {
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em; }
+
 .site-header {
   color: #3B3C3E; }
   .site-header .logo {
