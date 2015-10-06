@@ -1,0 +1,16 @@
+---
+layout: post
+
+author: Nick Pope
+---
+I am rather inexperienced with writing blogs but I am going to give it a real try! Turned out our teacher/mentor al-the-x (aka David Rogers) had trolled us, and had us write blogs all along - some of which are posted here. So bear with me, as I jump around and talk about a few different items - as will be my M.O. until I find my voice.
+
+So right now I want to talk about what I have been doing after graduating from The Iron Yard. We finished up our cohort in late July and many presented their final projects on 8/10 at demo day at The Iron Yard. During this time, I found I still struggled and needed to work on some JavaScript to become a better, more confident developer for employment. What I found out really helped me were books and paper. I bought a two books, and printed off the docs and went to work. Things made more sense and I was able to apply what I learned directly. I made some changes to my final project - _Lords of the Round Table_ - so it worked more cohesively. Looking back I see a lot of opportunity to make the code cleaner and better optimized.  Towards the end of August I felt more confident and wanted to start looking for jobs. Albeit I did go on a small vacation before I started looking.
+
+Beginning of September I began looking for jobs, and working on my portfolio site. I fell victim to what tech? How simple? How can I stand out? I played with a ton of different ideas, themes, techs before realizing I just need to complete a simple website with the right information. So I used Jekyll, jQuery, and Sass to create this site, which has had a few revisions. After the site was completed, the job hunt began!
+
+The job hunt has been tedious, fun, disheartening and exciting when you get calls. I knew in my free time I still needed to practice, so I have put together a static wedding website, and some little apps locally the most recent was a TODO MVC using vueJS which has been uploaded to Github. I have also been tossing up, what to learn? What would be more beneficial? So I settled on WordPress, but I also wanted to add more to my JavaScript roster or learn some basics of a server-side language. I asked myself, do I want to become a JavaScript master and focus only on JavaScript or learn other languages. For the time I have decided to learn possibly Python. I may become a JavaScript master - however at this point in my career, I don't want to miss out on some other languages that I may be more apt at learning.
+
+The Future at this point is exciting, and I am looking forward to landing my first job as a developer. Right now my plans are to learn WordPress via Docs, Team Treehouse, fellow cohort members, and possibly meetups. For Pythons I am just looking over the docs at this point - I want to avoid starting to build an app in said language only to stop half way and start another. The future of the is portfolio is to become more refined, with better UX, more JavaScript based and with better images for my portfolio piece. I pland to write at least one blog a week + one feature/ a week to my portfolio even after landing my dream job. Finally - I am still working on JavaScript and it frameworks and practicing it.
+
+--- Nick

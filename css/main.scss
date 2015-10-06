@@ -8,17 +8,13 @@
 
 $mobile: 30em;
 $grey: #464648;
+$white: #fff;
+$fontfam: 'Source Sans Pro';
 
-
-
-
-
-
-//
-// // Import partials from `sass_dir` (defaults to `_sass`)
+// Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        // "layout",
+        "blog",
         "header-footer",
         "contact",
         "port"
