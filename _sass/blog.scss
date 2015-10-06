@@ -1,0 +1,48 @@
+.blog1 {
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em;
+  text-align: center;
+
+ul {
+  list-style: none;
+
+li {
+margin-top: 1.5em;
+
+
+.title {
+  font-size: 2em;
+  text-decoration: none;
+  color: $grey;
+
+.excerpt {
+  display: none;
+    }
+
+    &:hover {
+      color: $white;
+
+      .excerpt{
+        margin: 0 auto;
+        display: block;
+        max-width: 40%;
+        font-size: 1ex;
+    }
+  } // end hover
+
+} // end title
+
+
+    }
+  }
+}//end blog1
+
+.post{
+  margin: 0 auto;
+  max-width: 80%;
+  padding: 2em;
+
+  
+
+}

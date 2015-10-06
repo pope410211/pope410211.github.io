@@ -1,0 +1,19 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<section class="blog1">
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a class="title" href="{{ post.url }}">{{ post.title }}
+      <p class="excerpt">{{ post.content | strip_html | truncatewords:25 }}</p>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+</section>
