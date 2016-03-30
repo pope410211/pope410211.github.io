@@ -5,9 +5,30 @@
     <description></description>
     <link>pope410211.github.io/</link>
     <atom:link href="pope410211.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Oct 2015 11:05:00 -0400</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2015 11:05:00 -0400</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2016 22:43:50 -0400</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2016 22:43:50 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+
+      <item>
+        <title>What I Ve Been Up To</title>
+        <description>&lt;p&gt;Hello World! I know in October I said I would try to write a blog, and do so more often. Truth is, I am not one for writing blogs, or even journaling often. But as I write this, I realize, what I need to do is write more about &lt;code&gt;code&lt;/code&gt; and technologies that I am working on. This post will not be on technologies, however, just a fresh update.&lt;/p&gt;
+
+&lt;p&gt;Shortly after writing my last post, I was hired by Omniticket | Best Union s.p.a.  - they are an Italian based ticketing company. One of the largest in the world, they - we - handle ticketing for everything - theaters, museums, theme parks, education centers, sporting events. We do web sales, and physical sales. The tech stack is &lt;code&gt;ColdFusion&lt;/code&gt; which took me by surprise - I mean I had heard of cold fusion. It was rather easy to learn though - we also use &lt;code&gt;mySQL express&lt;/code&gt;, &lt;code&gt;css&lt;/code&gt; and &lt;code&gt;css&lt;/code&gt; frameworks like &lt;code&gt;bootstrap&lt;/code&gt;. So after I began , I took time to learn ColdFusion, be able to debug and write it, learn to program using a Windows 8 PC, and finally to use &lt;code&gt;Tortoise SVN&lt;/code&gt; (not &lt;code&gt;GIT&lt;/code&gt;). I also went in with an excitement to learn - and the G.M. saw that. I helped to develop passbook &lt;code&gt;.pkpass&lt;/code&gt; for apple iPhone/iPad. I was even added to our B2B project as the Lead U.I. Developer. We decided as a team to use &lt;code&gt;Angularjs&lt;/code&gt; as our front end tech stack. I decided to instead of using bootstrap, as was the usual, to use &lt;code&gt;Angular Material&lt;/code&gt;(https://material.angularjs.org/latest/). A material design framework. The project is still in the works, and is being designed mobile first, and scaled to Desktop.  So that is a quick update where I am at for work - I have a lot I am working on and learning, it has been a great experience.&lt;/p&gt;
+
+&lt;p&gt;What&amp;#39;s next? Things are finally settling down. In the past 6 months, I got married, moved, started my first job in a new career field, learned a new programming language, and went to my sis-in-laws wedding so it has been busy. I want to return to &lt;code&gt;GIT&lt;/code&gt; which I miss very much, and start working on personal projects. Starting with redoing this portfolio page, I want to continue and learn &lt;code&gt;Python&lt;/code&gt;, review my &lt;code&gt;JavaScript&lt;/code&gt; which I am sad to say is a bit rusty, and finally review and continue work on my &lt;code&gt;Lords of the Round Table&lt;/code&gt; and take it live with &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt;  I can be proud of. &lt;/p&gt;
+
+&lt;p&gt;Till next time, live long, and code.&lt;/p&gt;
+
+&lt;p&gt;Best,&lt;/p&gt;
+
+&lt;p&gt;--- Nick  &lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Mar 2016 00:00:00 -0400</pubDate>
+        <link>pope410211.github.io/2016/03/29/What-I-ve-been-up-to.html</link>
+        <guid isPermaLink="true">pope410211.github.io/2016/03/29/What-I-ve-been-up-to.html</guid>
+
+
+      </item>
 
       <item>
         <title>My First Blog Since Tiy</title>
@@ -23,7 +44,7 @@
 
 &lt;p&gt;--- Nick&lt;/p&gt;
 </description>
-        <pubDate>Sat, 03 Oct 2015 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 03 Oct 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/10/03/My-First-Blog-Since-TIY.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/10/03/My-First-Blog-Since-TIY.html</guid>
 
@@ -39,7 +60,7 @@ how much we have learned. And as end near, and the start of our new careers on
 the horizon, it is hard to feel fully ready for that day! I think most of us (probably all)
 are nervous about being ready to enter the field. However recently working with these API&amp;#39;s and building websites from scratch have improved our self confidence in programming!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Jun 2015 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/06/11/No-Name.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/06/11/No-Name.html</guid>
 
@@ -55,7 +76,7 @@ other languages. When it came to spacing and or various needs for CSS I would of
 go and review Chris Coyer&amp;#39;s blog, and explanations ( and other authors, I am sure, I am bad at
   verifying who the authors were). The information is generally relevant, easy to follow ( with basic - intermediate CSS). And for information that wasn&amp;#39;t understood it would be easier to find the information on the subject.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Jun 2015 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 08 Jun 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/06/08/A-Link-Between-Info.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/06/08/A-Link-Between-Info.html</guid>
 
@@ -81,7 +102,7 @@ go and review Chris Coyer&amp;#39;s blog, and explanations ( and other authors, 
 &lt;p&gt;The conference was awesome did some networking, met Val Head, and some other great coders
   and developers!( it was unfortunate that I did not get an opportunity to meet James White w/ signalnoise - potentially the coolest canadian! - also goes w/ the stereotype of Canadians being a little behind in times...). After the weekend I felt like I was behind, and worked to get caught up to hopefully bewhere I am now, I guess we shall see...&lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 19 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/19/flux-capacitor-at-max-review.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/19/flux-capacitor-at-max-review.html</guid>
 
@@ -131,7 +152,7 @@ to fix a merge conflict!&lt;/li&gt;
 
 &lt;p&gt;So like I said above, I break a lot of things, and try to fix them. Week one, was more of a lets get into this and break everything we can and I learn to fix it...I have fixed some of the things, I think I am ahead in broken commits. But I have finally learned to merge (Yes!).&lt;/p&gt;
 </description>
-        <pubDate>Fri, 15 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 15 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/15/CodeMonekeyWK2-Bananas.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/15/CodeMonekeyWK2-Bananas.html</guid>
 
@@ -212,7 +233,7 @@ JavaScript projects due on Monday and visit from the developer(s) and CEO
 of Echo. That was exciting to see the how an agency worked, to learn a little
 bit of what it will be like when we graduate in a few months!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 08 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 08 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/08/CodeMonkeyWK1.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/08/CodeMonkeyWK1.html</guid>
 
@@ -285,7 +306,7 @@ it knows where the path to open the files are.
 &lt;li&gt;You can create scripts for almost anything you run in Command Line (such as &lt;code&gt;node-sass&lt;/code&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 07 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/07/Tutorials-are-for-Xbox-people.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/07/Tutorials-are-for-Xbox-people.html</guid>
 
@@ -312,7 +333,7 @@ cohorts to learn it, and become an awesome Junior Developer...or Their Boss...&l
     * Class breaking point?
     * DAMN YOU JavaScript! --&gt;
 </description>
-        <pubDate>Thu, 07 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 07 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/07/TARDIS.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/07/TARDIS.html</guid>
 
@@ -382,7 +403,7 @@ cohorts to learn it, and become an awesome Junior Developer...or Their Boss...&l
 
 &lt;p&gt;Even as a adults we can learn. and to quote Dr. James A. Moore &amp;quot;There is no box, we are taught to think inside this box, but the box is a figment of our creation. Quit thinking outside the box and remember there is no box!&amp;quot;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 04 May 2015 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 04 May 2015 00:00:00 -0400</pubDate>
         <link>pope410211.github.io/2015/05/04/growth-vs-fixed-mindset.html</link>
         <guid isPermaLink="true">pope410211.github.io/2015/05/04/growth-vs-fixed-mindset.html</guid>
 
